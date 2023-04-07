@@ -1,0 +1,7 @@
+It is a horse. A drawing of a horse in front of a drawing of a zebra.
+It is a house. A drawing of a house in a house.
+It is a person. A drawing of a person with a caption reading "person drawing.".
+It is a dog. A drawing of a dog and a drawing of a zebra.
+It is a guitar. A drawing of a guitar.
+It is a elephant. A drawing of a elephant in front of a drawing of a zebra.
+It is a giraffe. A drawing of a giraffe in front of a drawing of a giraffe.

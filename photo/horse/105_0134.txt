@@ -1,0 +1,7 @@
+It is a horse. A horse is standing in a stall.
+It is a house. A house standing inside of a building.
+It is a person. A person is standing in a stall.
+It is a dog. A dog standing inside of a stable.
+It is a guitar. A guitar is standing in a stall.
+It is a elephant. A large brown elephant standing inside of a building.
+It is a giraffe. A giraffe is standing in a stall.

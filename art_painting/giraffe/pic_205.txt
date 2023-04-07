@@ -1,0 +1,7 @@
+It is a horse. A group of horses are standing in a field.
+It is a house. A group of houses are standing in a field.
+It is a person. A group of persons are standing in a field.
+It is a dog. A group of dogs are standing in a field.
+It is a guitar. A herd of guitar standing next to each other.
+It is a elephant. A herd of elephant standing next to each other.
+It is a giraffe. A group of giraffes standing in a field.

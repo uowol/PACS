@@ -1,0 +1,7 @@
+It is a horse. A horse is standing in front of a wall.
+It is a house. A house standing in front of a wall.
+It is a person. A person is standing in front of a wall.
+It is a dog. A dog is standing in front of a wall.
+It is a guitar. A guitar is standing in front of a wall.
+It is a elephant. A man standing in front of a wall.
+It is a giraffe. A giraffe is standing in front of a giraffe.

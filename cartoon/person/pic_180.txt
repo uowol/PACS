@@ -1,0 +1,7 @@
+It is a horse. A woman is sitting on a couch.
+It is a house. A woman is sitting on a couch.
+It is a person. A woman is sitting on a bed.
+It is a dog. A woman is sitting on a bed.
+It is a guitar. A woman is sitting on a couch with a guitar.
+It is a elephant. A woman is sitting on a bed.
+It is a giraffe. A giraffe is sitting on a blue couch.

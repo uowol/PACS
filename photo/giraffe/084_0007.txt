@@ -1,0 +1,7 @@
+It is a horse. A horse standing in a fenced in area.
+It is a house. A house standing in front of a building.
+It is a person. A person is standing in a fenced in area.
+It is a dog. A large dog standing in a fenced in area.
+It is a guitar. A guitar standing in front of a building.
+It is a elephant. A elephant standing in front of a building.
+It is a giraffe. A giraffe standing in a fenced in area.

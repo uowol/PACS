@@ -1,0 +1,7 @@
+It is a horse. Three horses are standing in front of a painting.
+It is a house. Three houses are standing in front of a painting.
+It is a person. Three persons are standing in front of a painting.
+It is a dog. Three dogs are standing in front of a painting.
+It is a guitar. Three guitars are standing in front of a painting.
+It is a elephant. Three elephants are standing in front of a painting.
+It is a giraffe. Three giraffes are standing in front of a painting.

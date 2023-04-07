@@ -1,0 +1,7 @@
+It is a horse. A picture of a man with a horse.
+It is a house. A picture of a man playing a house.
+It is a person. A picture of a man with a person.
+It is a dog. A picture of a man playing a dog.
+It is a guitar. A guitar with a picture of a man on it.
+It is a elephant. A picture of an elephant with a label on it.
+It is a giraffe. A picture of a giraffe on a label.
