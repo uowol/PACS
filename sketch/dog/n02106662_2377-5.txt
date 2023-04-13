@@ -1,7 +1,7 @@
+It is a dog. A picture of a dog on its hind legs.
+It is a elephant. A picture of an elephant with a blurry background.
+It is a giraffe. A giraffe standing on its hind legs.
+It is a guitar. A picture of a cat sitting on a surfboard.
 It is a horse. A picture of a horse with its tongue out.
 It is a house. A picture of a cat on the ground.
 It is a person. A picture of a person on a beach.
-It is a dog. A picture of a dog on its hind legs.
-It is a guitar. A picture of a cat sitting on a surfboard.
-It is a elephant. A picture of an elephant with a blurry background.
-It is a giraffe. A giraffe standing on its hind legs.

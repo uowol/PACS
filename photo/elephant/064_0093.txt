@@ -1,7 +1,7 @@
+It is a dog. A couple of animals that are in the grass.
+It is a elephant. A couple of elephants walking across a field.
+It is a giraffe. A couple of giraffe standing on top of a grass covered field.
+It is a guitar. A couple of guitars standing on top of a grass covered field.
 It is a horse. A couple of animals that are standing in the grass.
 It is a house. A couple of houses walking across a field.
 It is a person. A couple of persons walking across a field.
-It is a dog. A couple of animals that are in the grass.
-It is a guitar. A couple of guitars standing on top of a grass covered field.
-It is a elephant. A couple of elephants walking across a field.
-It is a giraffe. A couple of giraffe standing on top of a grass covered field.

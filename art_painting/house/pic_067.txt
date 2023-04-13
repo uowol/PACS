@@ -1,7 +1,7 @@
+It is a dog. A painting of a dog with lots of windows.
+It is a elephant. A painting of a elephant and trees.
+It is a giraffe. A painting of a giraffe with a giraffe in the background.
+It is a guitar. A painting of a guitar with lots of windows.
 It is a horse. A painting of a horse and some trees.
 It is a house. A painting of a house with lots of windows.
 It is a person. A painting of a person with lots of windows.
-It is a dog. A painting of a dog with lots of windows.
-It is a guitar. A painting of a guitar with lots of windows.
-It is a elephant. A painting of a elephant and trees.
-It is a giraffe. A painting of a giraffe with a giraffe in the background.

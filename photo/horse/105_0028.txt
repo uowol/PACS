@@ -1,7 +1,7 @@
+It is a dog. Two dogs graze in a field.
+It is a elephant. Two elephants in a field with mountains in the background.
+It is a giraffe. Two giraffes in a grassy field with mountains in the background.
+It is a guitar. Two guitars graze in a field.
 It is a horse. Two horses graze in a field.
 It is a house. Two houses graze in a field.
 It is a person. Two persons in a field with mountains in the background.
-It is a dog. Two dogs graze in a field.
-It is a guitar. Two guitars graze in a field.
-It is a elephant. Two elephants in a field with mountains in the background.
-It is a giraffe. Two giraffes in a grassy field with mountains in the background.

@@ -1,7 +1,7 @@
+It is a dog. A large brown dog standing inside of a building.
+It is a elephant. A large black and white elephant standing inside of a building.
+It is a giraffe. A large giraffe standing in a fenced in area.
+It is a guitar. A large black guitar standing inside of a building.
 It is a horse. A large horse standing inside of a building.
 It is a house. A large black house standing inside of a fenced in area.
 It is a person. A large black person standing inside of a building.
-It is a dog. A large brown dog standing inside of a building.
-It is a guitar. A large black guitar standing inside of a building.
-It is a elephant. A large black and white elephant standing inside of a building.
-It is a giraffe. A large giraffe standing in a fenced in area.

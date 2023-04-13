@@ -1,7 +1,7 @@
+It is a dog. A large gray dog standing in a body of water.
+It is a elephant. An elephant is standing in a body of water.
+It is a giraffe. A giraffe standing in a body of water.
+It is a guitar. An guitar standing in a body of water.
 It is a horse. An horse is standing in the water.
 It is a house. An house standing in a body of water.
 It is a person. An person is standing in a body of water.
-It is a dog. A large gray dog standing in a body of water.
-It is a guitar. An guitar standing in a body of water.
-It is a elephant. An elephant is standing in a body of water.
-It is a giraffe. A giraffe standing in a body of water.

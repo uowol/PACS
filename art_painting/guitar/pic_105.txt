@@ -1,7 +1,7 @@
+It is a dog. A painting of a person holding a dog.
+It is a elephant. A painting of an elephant with a bottle in it's trunk.
+It is a giraffe. A picture of a giraffe in a painting.
+It is a guitar. A painting of a guitar and a guitar case.
 It is a horse. A painting of a horse in the middle of a painting.
 It is a house. A painting of a blue vase with a yellow flower in it.
 It is a person. A painting of a person holding a person.
-It is a dog. A painting of a person holding a dog.
-It is a guitar. A painting of a guitar and a guitar case.
-It is a elephant. A painting of an elephant with a bottle in it's trunk.
-It is a giraffe. A picture of a giraffe in a painting.

@@ -1,7 +1,7 @@
+It is a dog. A dog that is sitting in a bowl.
+It is a elephant. An elephant is standing in the water.
+It is a giraffe. A giraffe is standing in the water.
+It is a guitar. A picture of a guitar in a basket.
 It is a horse. A picture of a horse in a bucket.
 It is a house. A picture of a house in a bathtub.
 It is a person. A picture of a person in a bathtub.
-It is a dog. A dog that is sitting in a bowl.
-It is a guitar. A picture of a guitar in a basket.
-It is a elephant. An elephant is standing in the water.
-It is a giraffe. A giraffe is standing in the water.

@@ -1,7 +1,7 @@
+It is a dog. A picture of a log cabin in the woods.
+It is a elephant. A picture of an elephant in a wooded area.
+It is a giraffe. A picture of a giraffe in the woods.
+It is a guitar. A painting of a wooden guitar with a guitar and a horse.
 It is a horse. A picture of a horse in a wooded area.
 It is a house. A picture of a house and a horse.
 It is a person. A picture of some people in a wooded area.
-It is a dog. A picture of a log cabin in the woods.
-It is a guitar. A painting of a wooden guitar with a guitar and a horse.
-It is a elephant. A picture of an elephant in a wooded area.
-It is a giraffe. A picture of a giraffe in the woods.

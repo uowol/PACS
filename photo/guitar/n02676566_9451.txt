@@ -1,7 +1,7 @@
+It is a dog. A man in a suit is holding a dog.
+It is a elephant. A man in a suit is holding a elephant.
+It is a giraffe. A man is playing a giraffe in front of a tree.
+It is a guitar. A man is holding a guitar.
 It is a horse. A man in a suit is holding a horse.
 It is a house. A man is sitting in front of a house.
 It is a person. A man in a suit and tie holding a person.
-It is a dog. A man in a suit is holding a dog.
-It is a guitar. A man is holding a guitar.
-It is a elephant. A man in a suit is holding a elephant.
-It is a giraffe. A man is playing a giraffe in front of a tree.

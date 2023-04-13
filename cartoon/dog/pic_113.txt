@@ -1,7 +1,7 @@
+It is a dog. A dog is standing in front of a computer screen.
+It is a elephant. A large brown elephant standing on top of a green field.
+It is a giraffe. A large brown giraffe standing on top of a grass covered field.
+It is a guitar. A guitar is standing in front of a keyboard.
 It is a horse. A large brown horse standing on top of a green field.
 It is a house. A house is standing in front of a house.
 It is a person. A person standing in front of a white background.
-It is a dog. A dog is standing in front of a computer screen.
-It is a guitar. A guitar is standing in front of a keyboard.
-It is a elephant. A large brown elephant standing on top of a green field.
-It is a giraffe. A large brown giraffe standing on top of a grass covered field.

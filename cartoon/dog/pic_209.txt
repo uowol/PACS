@@ -1,7 +1,7 @@
+It is a dog. A dog that is wearing a red hat.
+It is a elephant. A picture of an elephant with a red bow tie.
+It is a giraffe. A giraffe is wearing a red neck tie.
+It is a guitar. A red guitar with a picture of a guitar on it.
 It is a horse. A picture of a horse wearing a red hat.
 It is a house. A house is wearing a red hat.
 It is a person. A picture of a person wearing a red hat.
-It is a dog. A dog that is wearing a red hat.
-It is a guitar. A red guitar with a picture of a guitar on it.
-It is a elephant. A picture of an elephant with a red bow tie.
-It is a giraffe. A giraffe is wearing a red neck tie.

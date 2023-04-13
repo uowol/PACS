@@ -1,7 +1,7 @@
+It is a dog. A dog and a zebra in a grassy field.
+It is a elephant. A couple of elephant standing next to each other.
+It is a giraffe. A giraffe standing in a grassy field.
+It is a guitar. A guitar and a zebra in a grassy field.
 It is a horse. A horse and a zebra in a grassy field.
 It is a house. A couple of house standing next to each other.
 It is a person. A person and a zebra in a grassy field.
-It is a dog. A dog and a zebra in a grassy field.
-It is a guitar. A guitar and a zebra in a grassy field.
-It is a elephant. A couple of elephant standing next to each other.
-It is a giraffe. A giraffe standing in a grassy field.

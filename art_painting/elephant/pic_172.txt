@@ -1,7 +1,7 @@
+It is a dog. A painting of dogs standing next to each other.
+It is a elephant. A group of elephants standing next to each other.
+It is a giraffe. A group of giraffes standing in front of a painting.
+It is a guitar. A painting of a giraffe standing in front of a wall.
 It is a horse. A painting of a horse standing in front of a wall.
 It is a house. A group of houses standing in front of a wall.
 It is a person. A painting of a giraffe standing in front of a wall.
-It is a dog. A painting of dogs standing next to each other.
-It is a guitar. A painting of a giraffe standing in front of a wall.
-It is a elephant. A group of elephants standing next to each other.
-It is a giraffe. A group of giraffes standing in front of a painting.

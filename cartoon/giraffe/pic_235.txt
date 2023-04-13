@@ -1,7 +1,7 @@
+It is a dog. A dog is standing in front of a zebra.
+It is a elephant. A baby elephant standing in front of a zebra.
+It is a giraffe. A giraffe standing in front of a tree.
+It is a guitar. A guitar standing in front of a tree.
 It is a horse. A horse standing in front of a tree.
 It is a house. a close up of a house in a field.
 It is a person. a close up of a person in a field.
-It is a dog. A dog is standing in front of a zebra.
-It is a guitar. A guitar standing in front of a tree.
-It is a elephant. A baby elephant standing in front of a zebra.
-It is a giraffe. A giraffe standing in front of a tree.

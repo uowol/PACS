@@ -1,7 +1,7 @@
+It is a dog. A large brown dog standing inside of a building.
+It is a elephant. A large brown elephant standing inside of a building.
+It is a giraffe. A giraffe sticking its head out of a stable.
+It is a guitar. A guitar standing in front of a wooden door.
 It is a horse. A horse sticking its head out of a stable.
 It is a house. A large brown house standing inside of a building.
 It is a person. A person is standing inside of a building.
-It is a dog. A large brown dog standing inside of a building.
-It is a guitar. A guitar standing in front of a wooden door.
-It is a elephant. A large brown elephant standing inside of a building.
-It is a giraffe. A giraffe sticking its head out of a stable.

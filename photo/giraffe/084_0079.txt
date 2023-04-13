@@ -1,7 +1,7 @@
+It is a dog. A large dog and a small dog in a field.
+It is a elephant. A large elephant and a small elephant in a field.
+It is a giraffe. A large giraffe and a small giraffe in a field.
+It is a guitar. A large guitar and a small guitar in a field.
 It is a horse. A large horse and a small horse in a field.
 It is a house. A mother house and her baby in a field.
 It is a person. A mother person and her baby in a field.
-It is a dog. A large dog and a small dog in a field.
-It is a guitar. A large guitar and a small guitar in a field.
-It is a elephant. A large elephant and a small elephant in a field.
-It is a giraffe. A large giraffe and a small giraffe in a field.

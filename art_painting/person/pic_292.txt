@@ -1,7 +1,7 @@
+It is a dog. A group of people standing around a painting.
+It is a elephant. A group of people standing in the sand next to an elephant.
+It is a giraffe. A group of people standing around a giraffe.
+It is a guitar. A group of people are gathered around a guitar.
 It is a horse. A group of people standing around a painting.
 It is a house. A group of people that are standing in the sand.
 It is a person. A group of people standing around a painting.
-It is a dog. A group of people standing around a painting.
-It is a guitar. A group of people are gathered around a guitar.
-It is a elephant. A group of people standing in the sand next to an elephant.
-It is a giraffe. A group of people standing around a giraffe.

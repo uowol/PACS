@@ -1,7 +1,7 @@
+It is a dog. A picture of a dog that is decorated in green, yellow, and red.
+It is a elephant. An elephant is standing in front of a elephant.
+It is a giraffe. A giraffe standing in front of a giraffe.
+It is a guitar. A picture of a giraffe standing in front of a guitar.
 It is a horse. A horse is standing in front of a horse.
 It is a house. A house that has a bunch of decorations on it.
 It is a person. A person is standing in front of a person.
-It is a dog. A picture of a dog that is decorated in green, yellow, and red.
-It is a guitar. A picture of a giraffe standing in front of a guitar.
-It is a elephant. An elephant is standing in front of a elephant.
-It is a giraffe. A giraffe standing in front of a giraffe.

@@ -1,7 +1,7 @@
+It is a dog. A magazine cover with a dog.
+It is a elephant. A picture of an elephant with a cover.
+It is a giraffe. A picture of a giraffe in a newspaper.
+It is a guitar. A picture of a guitar on the cover of a magazine.
 It is a horse. A horse is standing in front of a cover of magazines.
 It is a house. A picture of a picture of a house.
 It is a person. a close up of a person on a person.
-It is a dog. A magazine cover with a dog.
-It is a guitar. A picture of a guitar on the cover of a magazine.
-It is a elephant. A picture of an elephant with a cover.
-It is a giraffe. A picture of a giraffe in a newspaper.

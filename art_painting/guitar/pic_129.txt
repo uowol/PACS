@@ -1,7 +1,7 @@
+It is a dog. A living room with a painting on the wall.
+It is a elephant. A living room with a large painting of a elephant on the wall.
+It is a giraffe. A picture of a giraffe in a living room.
+It is a guitar. a living room with a couch and a table.
 It is a horse. A living room with a painting on the wall.
 It is a house. a living room with a couch and a table.
 It is a person. A room with a couch, table, and a painting on the wall.
-It is a dog. A living room with a painting on the wall.
-It is a guitar. a living room with a couch and a table.
-It is a elephant. A living room with a large painting of a elephant on the wall.
-It is a giraffe. A picture of a giraffe in a living room.

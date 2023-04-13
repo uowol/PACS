@@ -1,7 +1,7 @@
+It is a dog. A picture of a dog with a red collar.
+It is a elephant. A red elephant is standing in the grass.
+It is a giraffe. A picture of a giraffe in front of a tree.
+It is a guitar. A red guitar with a picture of a guitar on it.
 It is a horse. A picture of a horse with a red collar.
 It is a house. A red house is standing in front of a house.
 It is a person. A picture of a person with a red collar.
-It is a dog. A picture of a dog with a red collar.
-It is a guitar. A red guitar with a picture of a guitar on it.
-It is a elephant. A red elephant is standing in the grass.
-It is a giraffe. A picture of a giraffe in front of a tree.

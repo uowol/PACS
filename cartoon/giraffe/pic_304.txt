@@ -1,7 +1,7 @@
+It is a dog. A picture of a dog with a tree in the background.
+It is a elephant. A elephant standing in the middle of a forest.
+It is a giraffe. A giraffe standing next to a tree.
+It is a guitar. A picture of a guitar with a tree in the background.
 It is a horse. A picture of a horse and a tree.
 It is a house. A house standing next to a tree.
 It is a person. A picture of a person and a tree.
-It is a dog. A picture of a dog with a tree in the background.
-It is a guitar. A picture of a guitar with a tree in the background.
-It is a elephant. A elephant standing in the middle of a forest.
-It is a giraffe. A giraffe standing next to a tree.

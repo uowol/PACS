@@ -1,7 +1,7 @@
+It is a dog. A picture of a cat with a toothbrush in its mouth.
+It is a elephant. A drawing of a giraffe with a picture of a dog on it.
+It is a giraffe. A picture of a giraffe eating out of a box.
+It is a guitar. A picture of a cat with a toothbrush in its mouth.
 It is a horse. A picture of a horse with a sign that says "I love this horse.".
 It is a house. A drawing of a person holding a toothbrush in their mouth.
 It is a person. A picture of a person holding a toothbrush in their mouth.
-It is a dog. A picture of a cat with a toothbrush in its mouth.
-It is a guitar. A picture of a cat with a toothbrush in its mouth.
-It is a elephant. A drawing of a giraffe with a picture of a dog on it.
-It is a giraffe. A picture of a giraffe eating out of a box.

@@ -1,7 +1,7 @@
+It is a dog. A small gray dog sitting on top of a green field.
+It is a elephant. An elephant is standing in the grass.
+It is a giraffe. A giraffe is standing in the grass.
+It is a guitar. A baby guitar with a guitar in its mouth.
 It is a horse. A baby horse with a branch in its mouth.
 It is a house. A gray house standing on top of a lush green field.
 It is a person. A small gray person standing on top of a green field.
-It is a dog. A small gray dog sitting on top of a green field.
-It is a guitar. A baby guitar with a guitar in its mouth.
-It is a elephant. An elephant is standing in the grass.
-It is a giraffe. A giraffe is standing in the grass.

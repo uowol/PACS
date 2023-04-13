@@ -1,7 +1,7 @@
+It is a dog. A man sitting at a table with a cup of coffee.
+It is a elephant. A picture of an elephant sitting at a table.
+It is a giraffe. A picture of a giraffe sitting at a table.
+It is a guitar. A drawing of a man sitting at a desk with a guitar.
 It is a horse. A drawing of a man sitting at a table with a cup of coffee.
 It is a house. A drawing of a man sitting at a desk with a cup of coffee.
 It is a person. A drawing of a person sitting at a desk with a cup of coffee.
-It is a dog. A man sitting at a table with a cup of coffee.
-It is a guitar. A drawing of a man sitting at a desk with a guitar.
-It is a elephant. A picture of an elephant sitting at a table.
-It is a giraffe. A picture of a giraffe sitting at a table.

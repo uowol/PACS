@@ -1,7 +1,7 @@
+It is a dog. A man is wearing a suit and tie.
+It is a elephant. A man is wearing a suit and tie.
+It is a giraffe. A man is wearing a suit and tie.
+It is a guitar. A man is wearing a suit and tie.
 It is a horse. A man is wearing a suit and tie.
 It is a house. A man is wearing a suit and tie.
 It is a person. A man is wearing a suit and tie.
-It is a dog. A man is wearing a suit and tie.
-It is a guitar. A man is wearing a suit and tie.
-It is a elephant. A man is wearing a suit and tie.
-It is a giraffe. A man is wearing a suit and tie.

@@ -1,7 +1,7 @@
+It is a dog. A picture of a dog sitting on a chair.
+It is a elephant. A elephant is sitting on a bench.
+It is a giraffe. A picture of a giraffe sitting on a bench.
+It is a guitar. A picture of a guitar sitting on a bench.
 It is a horse. A picture of a horse sitting on a bench.
 It is a house. A picture of a house sitting on a toilet.
 It is a person. A picture of a person sitting on a chair.
-It is a dog. A picture of a dog sitting on a chair.
-It is a guitar. A picture of a guitar sitting on a bench.
-It is a elephant. A elephant is sitting on a bench.
-It is a giraffe. A picture of a giraffe sitting on a bench.

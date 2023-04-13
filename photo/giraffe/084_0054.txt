@@ -1,7 +1,7 @@
+It is a dog. A tall dog standing next to a tree.
+It is a elephant. A tall elephant standing in the middle of a forest.
+It is a giraffe. A giraffe standing in a grassy field.
+It is a guitar. A tall guitar standing next to a tree.
 It is a horse. A tall horse standing in the middle of a forest.
 It is a house. A tall house standing next to a tree.
 It is a person. A tall person standing in the middle of a forest.
-It is a dog. A tall dog standing next to a tree.
-It is a guitar. A tall guitar standing next to a tree.
-It is a elephant. A tall elephant standing in the middle of a forest.
-It is a giraffe. A giraffe standing in a grassy field.

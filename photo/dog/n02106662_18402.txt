@@ -1,7 +1,7 @@
+It is a dog. A person walking a dog on a leash.
+It is a elephant. A person walking a large elephant down a street.
+It is a giraffe. A person is walking with a giraffe.
+It is a guitar. A person is walking with a guitar.
 It is a horse. A person walking a horse down the street.
 It is a house. A person walking a house on a leash.
 It is a person. A person is walking with a person.
-It is a dog. A person walking a dog on a leash.
-It is a guitar. A person is walking with a guitar.
-It is a elephant. A person walking a large elephant down a street.
-It is a giraffe. A person is walking with a giraffe.

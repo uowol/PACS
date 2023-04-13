@@ -1,7 +1,7 @@
+It is a dog. A woman is wearing a sweater and a tie.
+It is a elephant. A woman is standing in front of a picture of a elephant.
+It is a giraffe. A woman is standing in front of a giraffe.
+It is a guitar. A woman is holding a guitar.
 It is a horse. A woman is standing in front of a picture of a horse.
 It is a house. A woman is standing in front of a house.
 It is a person. A woman is wearing a black shirt and a black and white checkered tie.
-It is a dog. A woman is wearing a sweater and a tie.
-It is a guitar. A woman is holding a guitar.
-It is a elephant. A woman is standing in front of a picture of a elephant.
-It is a giraffe. A woman is standing in front of a giraffe.

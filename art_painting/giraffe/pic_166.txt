@@ -1,7 +1,7 @@
+It is a dog. A painting of a dog sitting on a rock.
+It is a elephant. A painting of an elephant standing in water.
+It is a giraffe. A giraffe is standing in the water.
+It is a guitar. A painting of a guitar standing next to a rock.
 It is a horse. A painting of a horse standing in water.
 It is a house. A painting of a house standing in front of a blue wall.
 It is a person. A painting of a person standing next to a body of water.
-It is a dog. A painting of a dog sitting on a rock.
-It is a guitar. A painting of a guitar standing next to a rock.
-It is a elephant. A painting of an elephant standing in water.
-It is a giraffe. A giraffe is standing in the water.

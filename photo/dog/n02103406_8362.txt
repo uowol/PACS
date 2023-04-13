@@ -1,7 +1,7 @@
+It is a dog. A man standing next to a dog in a parking lot.
+It is a elephant. A man standing next to a black elephant.
+It is a giraffe. A man standing next to a brown and black giraffe.
+It is a guitar. A man standing next to a guitar in a parking lot.
 It is a horse. A man standing next to a horse.
 It is a house. A man and a house standing in front of a house.
 It is a person. A man and a person standing in the street.
-It is a dog. A man standing next to a dog in a parking lot.
-It is a guitar. A man standing next to a guitar in a parking lot.
-It is a elephant. A man standing next to a black elephant.
-It is a giraffe. A man standing next to a brown and black giraffe.

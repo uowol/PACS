@@ -1,7 +1,7 @@
+It is a dog. A large gray dog standing next to a tree.
+It is a elephant. An elephant with tusks walking in the grass.
+It is a giraffe. A giraffe standing in the grass next to a tree.
+It is a guitar. An guitar with tusks standing in the grass.
 It is a horse. An horse is standing in the grass.
 It is a house. An house is standing in the grass.
 It is a person. An person is standing in the grass.
-It is a dog. A large gray dog standing next to a tree.
-It is a guitar. An guitar with tusks standing in the grass.
-It is a elephant. An elephant with tusks walking in the grass.
-It is a giraffe. A giraffe standing in the grass next to a tree.

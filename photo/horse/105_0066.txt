@@ -1,7 +1,7 @@
+It is a dog. A brown dog standing in a fenced in area.
+It is a elephant. A large brown elephant standing in a fenced in area.
+It is a giraffe. A giraffe in a fenced in area.
+It is a guitar. A brown guitar standing in a fenced in area.
 It is a horse. A brown horse standing in a fenced in area.
 It is a house. A brown house standing in a fenced in area.
 It is a person. A brown person standing in a fenced in area.
-It is a dog. A brown dog standing in a fenced in area.
-It is a guitar. A brown guitar standing in a fenced in area.
-It is a elephant. A large brown elephant standing in a fenced in area.
-It is a giraffe. A giraffe in a fenced in area.

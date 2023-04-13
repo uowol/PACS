@@ -1,7 +1,7 @@
+It is a dog. A man wearing a green shirt and a tie.
+It is a elephant. A man in a green shirt standing in front of a tree.
+It is a giraffe. A man is standing in front of a tree.
+It is a guitar. A young man wearing a green shirt and jeans.
 It is a horse. A young man is standing in front of a tree.
 It is a house. A man is standing in front of a house.
 It is a person. A man in a suit standing on a rock.
-It is a dog. A man wearing a green shirt and a tie.
-It is a guitar. A young man wearing a green shirt and jeans.
-It is a elephant. A man in a green shirt standing in front of a tree.
-It is a giraffe. A man is standing in front of a tree.

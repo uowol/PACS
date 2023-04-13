@@ -1,7 +1,7 @@
+It is a dog. A picture of a dog in a green field.
+It is a elephant. A picture of an elephant in a green field.
+It is a giraffe. A picture of a giraffe in a green field.
+It is a guitar. A green vase with a picture of a bird on it.
 It is a horse. A picture of a horse in a green field.
 It is a house. A green plant is in the middle of a green field.
 It is a person. A green frog is standing in the middle of a green field.
-It is a dog. A picture of a dog in a green field.
-It is a guitar. A green vase with a picture of a bird on it.
-It is a elephant. A picture of an elephant in a green field.
-It is a giraffe. A picture of a giraffe in a green field.

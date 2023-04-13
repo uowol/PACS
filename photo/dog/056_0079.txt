@@ -1,7 +1,7 @@
+It is a dog. A dog laying in the grass on a sunny day.
+It is a elephant. A small brown elephant laying in the grass.
+It is a giraffe. A giraffe laying in the grass on a sunny day.
+It is a guitar. A small guitar is laying in the grass.
 It is a horse. A small horse is laying in the grass.
 It is a house. A small house is laying in the grass.
 It is a person. A small person is laying in the grass.
-It is a dog. A dog laying in the grass on a sunny day.
-It is a guitar. A small guitar is laying in the grass.
-It is a elephant. A small brown elephant laying in the grass.
-It is a giraffe. A giraffe laying in the grass on a sunny day.

@@ -1,7 +1,7 @@
+It is a dog. A woman is holding a pair of scissors.
+It is a elephant. A woman is holding an umbrella.
+It is a giraffe. A giraffe is in the middle of a painting.
+It is a guitar. A woman is holding a guitar and a pair of scissors.
 It is a horse. A woman is holding a pair of scissors.
 It is a house. A woman is holding a pair of scissors.
 It is a person. A woman is holding a pair of scissors.
-It is a dog. A woman is holding a pair of scissors.
-It is a guitar. A woman is holding a guitar and a pair of scissors.
-It is a elephant. A woman is holding an umbrella.
-It is a giraffe. A giraffe is in the middle of a painting.

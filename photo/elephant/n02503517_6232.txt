@@ -1,7 +1,7 @@
+It is a dog. A large brown dog walking across a field.
+It is a elephant. An elephant walking on a dirt road.
+It is a giraffe. A giraffe is standing in a grassy field.
+It is a guitar. A baby guitar walking across a field.
 It is a horse. An horse is walking on a dirt road.
 It is a house. A baby house walking across a grass covered field.
 It is a person. A baby person walking across a field.
-It is a dog. A large brown dog walking across a field.
-It is a guitar. A baby guitar walking across a field.
-It is a elephant. An elephant walking on a dirt road.
-It is a giraffe. A giraffe is standing in a grassy field.

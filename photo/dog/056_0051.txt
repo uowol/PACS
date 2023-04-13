@@ -1,7 +1,7 @@
+It is a dog. A small dog is standing on a leash.
+It is a elephant. A small elephant standing in the middle of a crowd of people.
+It is a giraffe. A small giraffe standing in the middle of a sidewalk.
+It is a guitar. A small guitar is standing on the sidewalk.
 It is a horse. A small horse standing in the middle of a crowd of people.
 It is a house. A small house is standing on the sidewalk.
 It is a person. A small person standing in the middle of a crowd.
-It is a dog. A small dog is standing on a leash.
-It is a guitar. A small guitar is standing on the sidewalk.
-It is a elephant. A small elephant standing in the middle of a crowd of people.
-It is a giraffe. A small giraffe standing in the middle of a sidewalk.

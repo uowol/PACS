@@ -1,7 +1,7 @@
+It is a dog. An dog is eating a piece of fruit.
+It is a elephant. An elephant is eating a piece of fruit.
+It is a giraffe. A giraffe is eating a piece of fruit.
+It is a guitar. An guitar holding a piece of fruit.
 It is a horse. An horse is eating a piece of fruit.
 It is a house. An house is eating a piece of fruit.
 It is a person. An person is eating a piece of fruit.
-It is a dog. An dog is eating a piece of fruit.
-It is a guitar. An guitar holding a piece of fruit.
-It is a elephant. An elephant is eating a piece of fruit.
-It is a giraffe. A giraffe is eating a piece of fruit.

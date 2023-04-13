@@ -1,7 +1,7 @@
+It is a dog. A baby dog is standing in the dirt.
+It is a elephant. An elephant with its trunk in the air.
+It is a giraffe. A baby giraffe standing in the middle of a field.
+It is a guitar. A baby guitar with its trunk in the air.
 It is a horse. A baby horse standing in front of an adult horse.
 It is a house. An house is standing in the middle of the room.
 It is a person. An person is standing in the middle of the picture.
-It is a dog. A baby dog is standing in the dirt.
-It is a guitar. A baby guitar with its trunk in the air.
-It is a elephant. An elephant with its trunk in the air.
-It is a giraffe. A baby giraffe standing in the middle of a field.

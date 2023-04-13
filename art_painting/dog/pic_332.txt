@@ -1,7 +1,7 @@
+It is a dog. A couple of dogs sitting next to each other.
+It is a elephant. A couple of elephants standing next to each other.
+It is a giraffe. A couple of giraffe standing next to each other.
+It is a guitar. A couple of guitars sitting next to each other.
 It is a horse. A couple of horses standing next to each other.
 It is a house. A couple of houses that are standing in the grass.
 It is a person. A couple of persons sitting next to each other.
-It is a dog. A couple of dogs sitting next to each other.
-It is a guitar. A couple of guitars sitting next to each other.
-It is a elephant. A couple of elephants standing next to each other.
-It is a giraffe. A couple of giraffe standing next to each other.

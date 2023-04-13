@@ -1,7 +1,7 @@
+It is a dog. A person is standing in front of a large dog.
+It is a elephant. A large building with trees in the background.
+It is a giraffe. A giraffe standing in front of a large building.
+It is a guitar. A person is standing in front of a large building.
 It is a horse. A horse is standing in front of a large building.
 It is a house. A person is standing in front of a large house.
 It is a person. A person is standing in front of a large building.
-It is a dog. A person is standing in front of a large dog.
-It is a guitar. A person is standing in front of a large building.
-It is a elephant. A large building with trees in the background.
-It is a giraffe. A giraffe standing in front of a large building.

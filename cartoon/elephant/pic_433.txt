@@ -1,7 +1,7 @@
+It is a dog. A picture of a computer screen with a mouse.
+It is a elephant. An image of an elephant on a computer screen.
+It is a giraffe. An image of a giraffe on a computer screen.
+It is a guitar. A picture of a computer screen with a mouse.
 It is a horse. A picture of a horse on a screen.
 It is a house. An image of a mouse and keyboard on a computer screen.
 It is a person. An image of a person on a computer screen.
-It is a dog. A picture of a computer screen with a mouse.
-It is a guitar. A picture of a computer screen with a mouse.
-It is a elephant. An image of an elephant on a computer screen.
-It is a giraffe. An image of a giraffe on a computer screen.

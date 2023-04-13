@@ -1,7 +1,7 @@
+It is a dog. An dog is standing in the dirt.
+It is a elephant. An elephant is standing in the dirt.
+It is a giraffe. A giraffe is standing in the dirt.
+It is a guitar. An guitar is standing in the dirt.
 It is a horse. An horse is standing in the dirt.
 It is a house. An house is standing in the dirt.
 It is a person. An person is standing in the dirt.
-It is a dog. An dog is standing in the dirt.
-It is a guitar. An guitar is standing in the dirt.
-It is a elephant. An elephant is standing in the dirt.
-It is a giraffe. A giraffe is standing in the dirt.

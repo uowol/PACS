@@ -1,7 +1,7 @@
+It is a dog. A brown and white dog standing next to a fence.
+It is a elephant. A baby elephant standing next to a fence.
+It is a giraffe. A baby giraffe standing next to a fence.
+It is a guitar. A brown and white guitar standing next to a fence.
 It is a horse. A horse is standing in a fenced in area.
 It is a house. A brown and white house standing next to a fence.
 It is a person. A brown and white person standing next to a fence.
-It is a dog. A brown and white dog standing next to a fence.
-It is a guitar. A brown and white guitar standing next to a fence.
-It is a elephant. A baby elephant standing next to a fence.
-It is a giraffe. A baby giraffe standing next to a fence.

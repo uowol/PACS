@@ -1,7 +1,7 @@
+It is a dog. A picture of a dog walking down the street.
+It is a elephant. A picture of a elephant walking with an elephant trunk.
+It is a giraffe. A giraffe walking down the street with a giraffe in the background.
+It is a guitar. A guitar walking down the street with a guitar case.
 It is a horse. A picture of a horse walking a horse.
 It is a house. A house is walking down the street.
 It is a person. A person is walking down the street.
-It is a dog. A picture of a dog walking down the street.
-It is a guitar. A guitar walking down the street with a guitar case.
-It is a elephant. A picture of a elephant walking with an elephant trunk.
-It is a giraffe. A giraffe walking down the street with a giraffe in the background.

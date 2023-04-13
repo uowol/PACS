@@ -1,7 +1,7 @@
+It is a dog. A dog that is laying down on a blanket.
+It is a elephant. A small brown elephant laying on top of a bed.
+It is a giraffe. A small brown giraffe laying on top of a bed.
+It is a guitar. A small guitar is wearing a sweater.
 It is a horse. A small brown and black horse laying on a bed.
 It is a house. A small brown house laying on top of a bed.
 It is a person. A small person is sitting on a bed.
-It is a dog. A dog that is laying down on a blanket.
-It is a guitar. A small guitar is wearing a sweater.
-It is a elephant. A small brown elephant laying on top of a bed.
-It is a giraffe. A small brown giraffe laying on top of a bed.

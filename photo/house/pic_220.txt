@@ -1,7 +1,7 @@
+It is a dog. A dog that is covered in snow.
+It is a elephant. A large white building with a tree in front of it.
+It is a giraffe. A tall building with a tree in front of it.
+It is a guitar. A guitar with a tree in front of it.
 It is a horse. A horse is standing in the snow by a horse.
 It is a house. A house that is covered in snow.
 It is a person. A person that is covered in snow.
-It is a dog. A dog that is covered in snow.
-It is a guitar. A guitar with a tree in front of it.
-It is a elephant. A large white building with a tree in front of it.
-It is a giraffe. A tall building with a tree in front of it.

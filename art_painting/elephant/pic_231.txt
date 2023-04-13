@@ -1,7 +1,7 @@
+It is a dog. A group of zebras are standing in the sand.
+It is a elephant. A group of elephants are standing together.
+It is a giraffe. A group of giraffes are standing together.
+It is a guitar. A picture of a group of guitars.
 It is a horse. A group of zebras are standing together.
 It is a house. A picture of a group of houses.
 It is a person. A group of persons are standing together.
-It is a dog. A group of zebras are standing in the sand.
-It is a guitar. A picture of a group of guitars.
-It is a elephant. A group of elephants are standing together.
-It is a giraffe. A group of giraffes are standing together.

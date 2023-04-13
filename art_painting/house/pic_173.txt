@@ -1,7 +1,7 @@
+It is a dog. A painting of a blue vase filled with flowers.
+It is a elephant. A painting of an elephant in a field.
+It is a giraffe. A painting of a giraffe in a field.
+It is a guitar. A painting of a vase with flowers in it.
 It is a horse. A painting of a grassy field with a blue sky in the background.
 It is a house. A painting of a house with lots of flowers.
 It is a person. A painting of a person in a field with trees in the background.
-It is a dog. A painting of a blue vase filled with flowers.
-It is a guitar. A painting of a vase with flowers in it.
-It is a elephant. A painting of an elephant in a field.
-It is a giraffe. A painting of a giraffe in a field.

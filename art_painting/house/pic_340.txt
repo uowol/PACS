@@ -1,7 +1,7 @@
+It is a dog. A dilapidated building with a dog in it.
+It is a elephant. A dilapidated building with a fire hydrant.
+It is a giraffe. A giraffe is standing in front of a building.
+It is a guitar. There is a guitar case in front of a guitar.
 It is a horse. A horse is standing in front of a building.
 It is a house. A house with a lot of stuff on the floor.
 It is a person. A person that has a lot of stuff on the floor.
-It is a dog. A dilapidated building with a dog in it.
-It is a guitar. There is a guitar case in front of a guitar.
-It is a elephant. A dilapidated building with a fire hydrant.
-It is a giraffe. A giraffe is standing in front of a building.

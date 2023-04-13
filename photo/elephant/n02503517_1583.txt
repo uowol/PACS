@@ -1,7 +1,7 @@
+It is a dog. A large gray dog standing in a circus ring.
+It is a elephant. An elephant standing in front of a crowd of people.
+It is a giraffe. A giraffe standing in front of a crowd of people.
+It is a guitar. An guitar is standing in front of a crowd.
 It is a horse. An horse standing in a circus ring.
 It is a house. A large gray house standing in a circus ring.
 It is a person. An person is standing in a circus ring.
-It is a dog. A large gray dog standing in a circus ring.
-It is a guitar. An guitar is standing in front of a crowd.
-It is a elephant. An elephant standing in front of a crowd of people.
-It is a giraffe. A giraffe standing in front of a crowd of people.

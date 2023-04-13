@@ -1,7 +1,7 @@
+It is a dog. A woman is standing in the middle of the street.
+It is a elephant. A woman is standing in the middle of the street.
+It is a giraffe. A giraffe is standing in the middle of the street.
+It is a guitar. A woman is standing in the middle of the street.
 It is a horse. A woman is standing in the middle of the street.
 It is a house. A house standing in front of a building.
 It is a person. A person is standing in the middle of the street.
-It is a dog. A woman is standing in the middle of the street.
-It is a guitar. A woman is standing in the middle of the street.
-It is a elephant. A woman is standing in the middle of the street.
-It is a giraffe. A giraffe is standing in the middle of the street.

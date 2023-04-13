@@ -1,7 +1,7 @@
+It is a dog. A person on a dog jumping over an obstacle.
+It is a elephant. A person riding on the back of a brown elephant.
+It is a giraffe. A person on a giraffe jumping over an obstacle.
+It is a guitar. A person on a guitar jumping over an obstacle.
 It is a horse. A woman is riding a horse.
 It is a house. A person on a house jumping over an obstacle.
 It is a person. A person on a person jumping over an obstacle.
-It is a dog. A person on a dog jumping over an obstacle.
-It is a guitar. A person on a guitar jumping over an obstacle.
-It is a elephant. A person riding on the back of a brown elephant.
-It is a giraffe. A person on a giraffe jumping over an obstacle.

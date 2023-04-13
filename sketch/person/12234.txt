@@ -1,7 +1,7 @@
+It is a dog. A picture of a dog holding a frisbee.
+It is a elephant. A picture of a elephant holding an elephant's trunk.
+It is a giraffe. A picture of a giraffe standing in the middle of a room.
+It is a guitar. A picture of a guitar holding a guitar.
 It is a horse. A horse is holding a white horse.
 It is a house. A house is standing in front of a wall.
 It is a person. A person is standing in the middle of a picture.
-It is a dog. A picture of a dog holding a frisbee.
-It is a guitar. A picture of a guitar holding a guitar.
-It is a elephant. A picture of a elephant holding an elephant's trunk.
-It is a giraffe. A picture of a giraffe standing in the middle of a room.

@@ -1,7 +1,7 @@
+It is a dog. A black and white dog standing in front of a white dog.
+It is a elephant. A large white elephant with a black and white checkered roof.
+It is a giraffe. A giraffe is standing in front of a giraffe.
+It is a guitar. A black guitar is in front of a white guitar.
 It is a horse. A horse is standing in front of a white horse.
 It is a house. A large white house with a black and white checkered roof.
 It is a person. A person is standing in front of a white person.
-It is a dog. A black and white dog standing in front of a white dog.
-It is a guitar. A black guitar is in front of a white guitar.
-It is a elephant. A large white elephant with a black and white checkered roof.
-It is a giraffe. A giraffe is standing in front of a giraffe.

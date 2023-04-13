@@ -1,7 +1,7 @@
+It is a dog. A picture of a dog with a lot of windows.
+It is a elephant. A picture of a building with a lot of decorations.
+It is a giraffe. A picture of a giraffe with a lot of furniture.
+It is a guitar. A picture of a guitar with a lot of furniture.
 It is a horse. A picture of a horse with a lot of windows.
 It is a house. A picture of a house with lots of furniture.
 It is a person. A picture of a person with a lot of furniture.
-It is a dog. A picture of a dog with a lot of windows.
-It is a guitar. A picture of a guitar with a lot of furniture.
-It is a elephant. A picture of a building with a lot of decorations.
-It is a giraffe. A picture of a giraffe with a lot of furniture.

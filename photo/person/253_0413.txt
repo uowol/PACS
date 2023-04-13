@@ -1,7 +1,7 @@
+It is a dog. A woman is standing in front of a wall.
+It is a elephant. A woman is standing in front of a wall.
+It is a giraffe. A woman is standing next to a giraffe.
+It is a guitar. A woman is holding a guitar case.
 It is a horse. A woman is standing in front of a wall.
 It is a house. A woman is standing in front of a wall.
 It is a person. A woman is standing in front of a wall.
-It is a dog. A woman is standing in front of a wall.
-It is a guitar. A woman is holding a guitar case.
-It is a elephant. A woman is standing in front of a wall.
-It is a giraffe. A woman is standing next to a giraffe.

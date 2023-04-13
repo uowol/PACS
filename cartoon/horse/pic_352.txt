@@ -1,7 +1,7 @@
+It is a dog. A picture of a person riding a bicycle.
+It is a elephant. The elephant is riding on the back of a bicycle.
+It is a giraffe. A giraffe standing on its hind legs.
+It is a guitar. A picture of a person riding a bicycle.
 It is a horse. A horse that is standing on its hind legs.
 It is a house. A picture of a person riding a bicycle.
 It is a person. A picture of a person riding a person.
-It is a dog. A picture of a person riding a bicycle.
-It is a guitar. A picture of a person riding a bicycle.
-It is a elephant. The elephant is riding on the back of a bicycle.
-It is a giraffe. A giraffe standing on its hind legs.

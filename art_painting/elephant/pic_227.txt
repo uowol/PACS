@@ -1,7 +1,7 @@
+It is a dog. A picture of a blue cloudy sky.
+It is a elephant. A picture of an elephant in the water.
+It is a giraffe. A picture of a giraffe in a field.
+It is a guitar. A painting of a guitar in the water.
 It is a horse. A painting of a horse in a field.
 It is a house. A painting of a blue cloudy sky.
 It is a person. A painting of a person with an umbrella.
-It is a dog. A picture of a blue cloudy sky.
-It is a guitar. A painting of a guitar in the water.
-It is a elephant. A picture of an elephant in the water.
-It is a giraffe. A picture of a giraffe in a field.

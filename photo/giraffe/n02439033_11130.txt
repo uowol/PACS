@@ -1,7 +1,7 @@
+It is a dog. A dog standing in front of a wooden fence.
+It is a elephant. A elephant standing in front of a wooden fence.
+It is a giraffe. A giraffe standing in a grassy field.
+It is a guitar. A guitar standing in front of a wooden fence.
 It is a horse. A horse standing in a grassy field.
 It is a house. A house standing in front of a wooden fence.
 It is a person. A person standing in a grassy field.
-It is a dog. A dog standing in front of a wooden fence.
-It is a guitar. A guitar standing in front of a wooden fence.
-It is a elephant. A elephant standing in front of a wooden fence.
-It is a giraffe. A giraffe standing in a grassy field.

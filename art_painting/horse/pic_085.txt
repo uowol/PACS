@@ -1,7 +1,7 @@
+It is a dog. A painting of dogs in a river.
+It is a elephant. A painting of elephants in the water.
+It is a giraffe. A painting of a group of giraffes in the water.
+It is a guitar. A painting of guitars in a river.
 It is a horse. A painting of horses in a river.
 It is a house. A painting of houses in the water.
 It is a person. A painting of a group of persons in the water.
-It is a dog. A painting of dogs in a river.
-It is a guitar. A painting of guitars in a river.
-It is a elephant. A painting of elephants in the water.
-It is a giraffe. A painting of a group of giraffes in the water.

@@ -1,7 +1,7 @@
+It is a dog. A picture of a dog on a table.
+It is a elephant. A elephant standing on top of a wooden table.
+It is a giraffe. A giraffe standing on top of a wooden table.
+It is a guitar. A guitar standing on top of a wooden table.
 It is a horse. A horse that is standing on a table.
 It is a house. A house standing on top of a wooden table.
 It is a person. A person standing on top of a wooden table.
-It is a dog. A picture of a dog on a table.
-It is a guitar. A guitar standing on top of a wooden table.
-It is a elephant. A elephant standing on top of a wooden table.
-It is a giraffe. A giraffe standing on top of a wooden table.

@@ -1,7 +1,7 @@
+It is a dog. A picture of an dog in the air.
+It is a elephant. A picture of an elephant in the air.
+It is a giraffe. A picture of a giraffe in the air.
+It is a guitar. A picture of an guitar in the air.
 It is a horse. A picture of an horse in the air.
 It is a house. A picture of an house in the air.
 It is a person. A picture of an person in the air.
-It is a dog. A picture of an dog in the air.
-It is a guitar. A picture of an guitar in the air.
-It is a elephant. A picture of an elephant in the air.
-It is a giraffe. A picture of a giraffe in the air.

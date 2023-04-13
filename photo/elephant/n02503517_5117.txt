@@ -1,7 +1,7 @@
+It is a dog. A large dog standing next to a stone wall.
+It is a elephant. A large elephant standing next to a stone wall.
+It is a giraffe. A giraffe standing next to a stone wall.
+It is a guitar. A large guitar standing next to a tree.
 It is a horse. A large horse standing next to a stone wall.
 It is a house. An house is standing in the dirt.
 It is a person. A large person standing next to a stone wall.
-It is a dog. A large dog standing next to a stone wall.
-It is a guitar. A large guitar standing next to a tree.
-It is a elephant. A large elephant standing next to a stone wall.
-It is a giraffe. A giraffe standing next to a stone wall.

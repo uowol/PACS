@@ -1,7 +1,7 @@
+It is a dog. A man is standing in the middle of the picture.
+It is a elephant. A man is standing in front of a picture of a elephant.
+It is a giraffe. A man is standing in the middle of the picture.
+It is a guitar. A man is standing in front of a wall.
 It is a horse. A man is standing in the middle of the picture.
 It is a house. A man is standing in front of a house.
 It is a person. A man is standing in the middle of the picture.
-It is a dog. A man is standing in the middle of the picture.
-It is a guitar. A man is standing in front of a wall.
-It is a elephant. A man is standing in front of a picture of a elephant.
-It is a giraffe. A man is standing in the middle of the picture.

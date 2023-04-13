@@ -1,7 +1,7 @@
+It is a dog. A dog that is laying down in the dirt.
+It is a elephant. A baby elephant is sleeping on the floor.
+It is a giraffe. A giraffe is laying down in the dirt.
+It is a guitar. A guitar is sleeping on the concrete.
 It is a horse. A horse that is laying down in the dirt.
 It is a house. A house is sleeping on the floor.
 It is a person. A person that is laying down on the ground.
-It is a dog. A dog that is laying down in the dirt.
-It is a guitar. A guitar is sleeping on the concrete.
-It is a elephant. A baby elephant is sleeping on the floor.
-It is a giraffe. A giraffe is laying down in the dirt.

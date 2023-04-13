@@ -1,7 +1,7 @@
+It is a dog. A dog is standing in front of a flower pot.
+It is a elephant. A large brown elephant standing next to a bunch of flowers.
+It is a giraffe. A giraffe standing next to a bunch of flowers.
+It is a guitar. A guitar is standing in front of a flower pot.
 It is a horse. A horse is standing in front of a flower pot.
 It is a house. A house standing in front of a bunch of flowers.
 It is a person. A person is standing in front of a flower pot.
-It is a dog. A dog is standing in front of a flower pot.
-It is a guitar. A guitar is standing in front of a flower pot.
-It is a elephant. A large brown elephant standing next to a bunch of flowers.
-It is a giraffe. A giraffe standing next to a bunch of flowers.

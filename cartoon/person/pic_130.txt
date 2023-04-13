@@ -1,7 +1,7 @@
+It is a dog. A picture of a dog holding an umbrella.
+It is a elephant. A elephant standing in the rain with an umbrella.
+It is a giraffe. A giraffe is standing in the snow with an umbrella.
+It is a guitar. A picture of a guitar holding a guitar.
 It is a horse. A picture of a horse holding an umbrella.
 It is a house. A house is standing in the snow with an umbrella.
 It is a person. A person is standing in the snow with an umbrella.
-It is a dog. A picture of a dog holding an umbrella.
-It is a guitar. A picture of a guitar holding a guitar.
-It is a elephant. A elephant standing in the rain with an umbrella.
-It is a giraffe. A giraffe is standing in the snow with an umbrella.

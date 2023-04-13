@@ -1,7 +1,7 @@
+It is a dog. A blurry picture of a dog wearing a hat.
+It is a elephant. A picture of an elephant in a black and white photo.
+It is a giraffe. A picture of a giraffe standing in the grass.
+It is a guitar. A picture of a man wearing a neck tie.
 It is a horse. A picture of a horse in a hat and tie.
 It is a house. A picture of a man wearing a neck tie.
 It is a person. A man is wearing a neck tie.
-It is a dog. A blurry picture of a dog wearing a hat.
-It is a guitar. A picture of a man wearing a neck tie.
-It is a elephant. A picture of an elephant in a black and white photo.
-It is a giraffe. A picture of a giraffe standing in the grass.

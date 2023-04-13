@@ -1,7 +1,7 @@
+It is a dog. A dog that is standing in the sand.
+It is a elephant. A large elephant walking across a beach.
+It is a giraffe. A giraffe is standing in the sand.
+It is a guitar. A painting of a bird on a beach.
 It is a horse. A horse that is standing in the sand.
 It is a house. A blurry image of a bird standing on a beach.
 It is a person. A blurry image of a person with a bird in their hand.
-It is a dog. A dog that is standing in the sand.
-It is a guitar. A painting of a bird on a beach.
-It is a elephant. A large elephant walking across a beach.
-It is a giraffe. A giraffe is standing in the sand.

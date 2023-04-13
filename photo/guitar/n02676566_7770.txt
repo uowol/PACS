@@ -1,7 +1,7 @@
+It is a dog. A person laying on a bed with a dog.
+It is a elephant. A person laying on a bed with a elephant.
+It is a giraffe. A person laying on a bed with a giraffe.
+It is a guitar. A person laying on a bed with a guitar.
 It is a horse. A person laying on a bed with a horse.
 It is a house. A person laying on a bed with a house.
 It is a person. a person laying on a bed with a person.
-It is a dog. A person laying on a bed with a dog.
-It is a guitar. A person laying on a bed with a guitar.
-It is a elephant. A person laying on a bed with a elephant.
-It is a giraffe. A person laying on a bed with a giraffe.

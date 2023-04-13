@@ -1,7 +1,7 @@
+It is a dog. A picture of a dog standing on its hind legs.
+It is a elephant. A elephant standing in front of an elephant statue.
+It is a giraffe. A giraffe standing on its hind legs.
+It is a guitar. A woman is standing on a skateboard.
 It is a horse. A drawing of a woman standing on a rock.
 It is a house. A woman is standing in front of a wall.
 It is a person. A person standing on a skateboard.
-It is a dog. A picture of a dog standing on its hind legs.
-It is a guitar. A woman is standing on a skateboard.
-It is a elephant. A elephant standing in front of an elephant statue.
-It is a giraffe. A giraffe standing on its hind legs.

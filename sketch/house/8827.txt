@@ -1,7 +1,7 @@
+It is a dog. A black and white photo of a dog.
+It is a elephant. An elephant is standing in front of a building.
+It is a giraffe. A black and white photo of a giraffe in front of a building.
+It is a guitar. A black and white photo of a guitar.
 It is a horse. A black and white photo of a building.
 It is a house. A black and white photo of a house.
 It is a person. A picture of a person standing in front of a building.
-It is a dog. A black and white photo of a dog.
-It is a guitar. A black and white photo of a guitar.
-It is a elephant. An elephant is standing in front of a building.
-It is a giraffe. A black and white photo of a giraffe in front of a building.

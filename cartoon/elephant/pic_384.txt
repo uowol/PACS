@@ -1,7 +1,7 @@
+It is a dog. A baby dog is standing in the grass.
+It is a elephant. An elephant is standing in the grass.
+It is a giraffe. A giraffe is standing in the grass.
+It is a guitar. A baby guitar is standing in the grass.
 It is a horse. A horse is standing in the grass.
 It is a house. A baby house is standing in the grass.
 It is a person. A baby person is standing in the grass.
-It is a dog. A baby dog is standing in the grass.
-It is a guitar. A baby guitar is standing in the grass.
-It is a elephant. An elephant is standing in the grass.
-It is a giraffe. A giraffe is standing in the grass.

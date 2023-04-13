@@ -1,7 +1,7 @@
+It is a dog. This is a picture of a dog.
+It is a elephant. A elephant is standing on a white surface.
+It is a giraffe. A picture of a giraffe standing in the grass.
+It is a guitar. A guitar is on a white surface.
 It is a horse. This is a picture of a horse.
 It is a house. A black and white photo of a person standing in front of a wall.
 It is a person. This is a picture of a person.
-It is a dog. This is a picture of a dog.
-It is a guitar. A guitar is on a white surface.
-It is a elephant. A elephant is standing on a white surface.
-It is a giraffe. A picture of a giraffe standing in the grass.

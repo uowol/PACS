@@ -1,7 +1,7 @@
+It is a dog. A picture of a small dog in the middle of a picture.
+It is a elephant. A large elephant standing in the middle of a field.
+It is a giraffe. A giraffe standing in the middle of a field.
+It is a guitar. A picture of a small guitar.
 It is a horse. A picture of a horse in the middle of a picture.
 It is a house. A small house standing in the middle of a room.
 It is a person. A small person standing in the middle of a field.
-It is a dog. A picture of a small dog in the middle of a picture.
-It is a guitar. A picture of a small guitar.
-It is a elephant. A large elephant standing in the middle of a field.
-It is a giraffe. A giraffe standing in the middle of a field.

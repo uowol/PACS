@@ -1,7 +1,7 @@
+It is a dog. A dog with a picture of a dog on it.
+It is a elephant. A elephant with a picture of a rhino on it.
+It is a giraffe. A picture of a giraffe with a giraffe in the background.
+It is a guitar. A guitar with a guitar case in the background.
 It is a horse. A horse sitting on top of a piece of wood.
 It is a house. A house sitting on top of a table.
 It is a person. A person with a person case in the background.
-It is a dog. A dog with a picture of a dog on it.
-It is a guitar. A guitar with a guitar case in the background.
-It is a elephant. A elephant with a picture of a rhino on it.
-It is a giraffe. A picture of a giraffe with a giraffe in the background.

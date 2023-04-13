@@ -1,7 +1,7 @@
+It is a dog. A painting of a woman drinking from a wine glass.
+It is a elephant. A painting of a woman holding a wine glass.
+It is a giraffe. A painting of a giraffe drinking from a wine glass.
+It is a guitar. A painting of a woman holding a guitar.
 It is a horse. A painting of a woman drinking from a wine glass.
 It is a house. A painting of a woman drinking from a wine glass.
 It is a person. A painting of a person holding a wine glass.
-It is a dog. A painting of a woman drinking from a wine glass.
-It is a guitar. A painting of a woman holding a guitar.
-It is a elephant. A painting of a woman holding a wine glass.
-It is a giraffe. A painting of a giraffe drinking from a wine glass.

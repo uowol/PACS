@@ -1,7 +1,7 @@
+It is a dog. A black dog standing in the woods.
+It is a elephant. A large black elephant standing in the woods.
+It is a giraffe. A large black and white giraffe standing in the woods.
+It is a guitar. A black guitar standing in the woods.
 It is a horse. A black and white horse standing in the woods.
 It is a house. A black house standing in the woods.
 It is a person. A black person standing in the woods.
-It is a dog. A black dog standing in the woods.
-It is a guitar. A black guitar standing in the woods.
-It is a elephant. A large black elephant standing in the woods.
-It is a giraffe. A large black and white giraffe standing in the woods.

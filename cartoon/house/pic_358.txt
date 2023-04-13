@@ -1,7 +1,7 @@
+It is a dog. A painting of a building with a clock tower.
+It is a elephant. A drawing of a teddy bear in front of a elephant.
+It is a giraffe. A drawing of a giraffe in front of a building.
+It is a guitar. A painting of a building with a bird on the roof.
 It is a horse. A drawing of a horse in front of a horse.
 It is a house. A painting of a house with a clock on the front of it.
 It is a person. A drawing of a man and a dog in front of a person.
-It is a dog. A painting of a building with a clock tower.
-It is a guitar. A painting of a building with a bird on the roof.
-It is a elephant. A drawing of a teddy bear in front of a elephant.
-It is a giraffe. A drawing of a giraffe in front of a building.

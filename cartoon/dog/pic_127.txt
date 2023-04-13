@@ -1,7 +1,7 @@
+It is a dog. A large black dog with a red collar.
+It is a elephant. A large elephant is standing in the grass.
+It is a giraffe. A large giraffe standing in the grass.
+It is a guitar. A black and white guitar with a red collar.
 It is a horse. A picture of a black and white horse.
 It is a house. A black and white house with a red collar.
 It is a person. A black and white person with a red collar.
-It is a dog. A large black dog with a red collar.
-It is a guitar. A black and white guitar with a red collar.
-It is a elephant. A large elephant is standing in the grass.
-It is a giraffe. A large giraffe standing in the grass.

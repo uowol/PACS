@@ -1,7 +1,7 @@
+It is a dog. A picture of a dog in a cage.
+It is a elephant. A picture of an elephant in a cage.
+It is a giraffe. A giraffe sticking its head through a barbed wire fence.
+It is a guitar. A picture of a giraffe in a cage.
 It is a horse. A horse is standing in the water.
 It is a house. A picture of a house in a cage.
 It is a person. A person is standing in the water.
-It is a dog. A picture of a dog in a cage.
-It is a guitar. A picture of a giraffe in a cage.
-It is a elephant. A picture of an elephant in a cage.
-It is a giraffe. A giraffe sticking its head through a barbed wire fence.

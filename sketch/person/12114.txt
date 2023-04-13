@@ -1,7 +1,7 @@
+It is a dog. A woman is sitting on a chair.
+It is a elephant. A woman is sitting on a bench.
+It is a giraffe. A woman is sitting on a chair.
+It is a guitar. A woman sitting on a chair holding a guitar.
 It is a horse. A woman is sitting on a chair.
 It is a house. A woman is sitting on a chair.
 It is a person. A woman is sitting on a chair.
-It is a dog. A woman is sitting on a chair.
-It is a guitar. A woman sitting on a chair holding a guitar.
-It is a elephant. A woman is sitting on a bench.
-It is a giraffe. A woman is sitting on a chair.

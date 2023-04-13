@@ -1,7 +1,7 @@
+It is a dog. A picture of a dog with a shirt and tie on.
+It is a elephant. A elephant is standing in the dirt.
+It is a giraffe. A giraffe is standing in the dirt.
+It is a guitar. A picture of a guitar with a guitar.
 It is a horse. A picture of a horse in the middle of the road.
 It is a house. A young child is standing in front of a house.
 It is a person. A person is standing in the middle of the street.
-It is a dog. A picture of a dog with a shirt and tie on.
-It is a guitar. A picture of a guitar with a guitar.
-It is a elephant. A elephant is standing in the dirt.
-It is a giraffe. A giraffe is standing in the dirt.

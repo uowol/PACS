@@ -1,7 +1,7 @@
+It is a dog. A portrait of a man with long hair and a beard.
+It is a elephant. A picture of a man with a hat and a cane.
+It is a giraffe. A man with long hair and a beard.
+It is a guitar. A portrait of a man with a beard.
 It is a horse. A portrait of a man in a suit.
 It is a house. A portrait of a man in a suit and tie.
 It is a person. A portrait of a man with a beard.
-It is a dog. A portrait of a man with long hair and a beard.
-It is a guitar. A portrait of a man with a beard.
-It is a elephant. A picture of a man with a hat and a cane.
-It is a giraffe. A man with long hair and a beard.

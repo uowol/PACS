@@ -1,7 +1,7 @@
+It is a dog. A picture of a dog in the daytime.
+It is a elephant. A tall brick building with a large window.
+It is a giraffe. A giraffe is standing in front of a giraffe.
+It is a guitar. A picture of a guitar in the daytime.
 It is a horse. A horse is standing in the grass outside of a horse.
 It is a house. A house with a lot of windows and a lot of trees.
 It is a person. A person is standing in front of a person.
-It is a dog. A picture of a dog in the daytime.
-It is a guitar. A picture of a guitar in the daytime.
-It is a elephant. A tall brick building with a large window.
-It is a giraffe. A giraffe is standing in front of a giraffe.

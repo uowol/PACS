@@ -1,7 +1,7 @@
+It is a dog. A man leading a small dog on a dirt path.
+It is a elephant. A man leading an elephant down a dirt road.
+It is a giraffe. A man leading a giraffe across a dirt field.
+It is a guitar. A man leading an guitar down a dirt road.
 It is a horse. A man leading a horse down a dirt road.
 It is a house. A man leading an house down a dirt road.
 It is a person. A man leading an person down a dirt road.
-It is a dog. A man leading a small dog on a dirt path.
-It is a guitar. A man leading an guitar down a dirt road.
-It is a elephant. A man leading an elephant down a dirt road.
-It is a giraffe. A man leading a giraffe across a dirt field.

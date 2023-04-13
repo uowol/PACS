@@ -1,7 +1,7 @@
+It is a dog. A large gray dog walking through a forest.
+It is a elephant. An elephant is standing in the middle of a field.
+It is a giraffe. An adult and baby giraffe in an enclosure.
+It is a guitar. An guitar standing in the middle of a forest.
 It is a horse. An horse standing in the middle of a forest.
 It is a house. An house standing in the middle of a field.
 It is a person. An person is standing in the middle of a field.
-It is a dog. A large gray dog walking through a forest.
-It is a guitar. An guitar standing in the middle of a forest.
-It is a elephant. An elephant is standing in the middle of a field.
-It is a giraffe. An adult and baby giraffe in an enclosure.

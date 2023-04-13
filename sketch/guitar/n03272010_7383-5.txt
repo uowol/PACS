@@ -1,7 +1,7 @@
+It is a dog. A hand that is holding a baseball bat.
+It is a elephant. A hand that is holding a bat.
+It is a giraffe. A hand that is holding a toothbrush in it's mouth.
+It is a guitar. A hand holding a guitar string.
 It is a horse. A person is holding a toothbrush in their hand.
 It is a house. A hand that is holding a bat.
 It is a person. A hand that is holding a baseball bat.
-It is a dog. A hand that is holding a baseball bat.
-It is a guitar. A hand holding a guitar string.
-It is a elephant. A hand that is holding a bat.
-It is a giraffe. A hand that is holding a toothbrush in it's mouth.

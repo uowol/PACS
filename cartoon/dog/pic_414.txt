@@ -1,7 +1,7 @@
+It is a dog. A teddy bear with a bow tie on.
+It is a elephant. A teddy bear is sitting on the ground.
+It is a giraffe. A giraffe is sitting on the ground.
+It is a guitar. A teddy bear with a bow is sitting on the ground.
 It is a horse. A teddy bear is sitting on the ground.
 It is a house. A white teddy bear with a red bow tie.
 It is a person. A teddy bear wearing a hat and a bow tie.
-It is a dog. A teddy bear with a bow tie on.
-It is a guitar. A teddy bear with a bow is sitting on the ground.
-It is a elephant. A teddy bear is sitting on the ground.
-It is a giraffe. A giraffe is sitting on the ground.

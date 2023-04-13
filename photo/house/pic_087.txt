@@ -1,7 +1,7 @@
+It is a dog. A dog that is standing in front of a dog.
+It is a elephant. An elephant is standing in a wooded area.
+It is a giraffe. A giraffe is standing in the middle of the yard.
+It is a guitar. A woman is standing in front of a cabin.
 It is a horse. A horse that is standing in the grass.
 It is a house. A house that has a table and chairs in front of it.
 It is a person. A woman is standing in front of a cabin.
-It is a dog. A dog that is standing in front of a dog.
-It is a guitar. A woman is standing in front of a cabin.
-It is a elephant. An elephant is standing in a wooded area.
-It is a giraffe. A giraffe is standing in the middle of the yard.

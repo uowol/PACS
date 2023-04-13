@@ -1,7 +1,7 @@
+It is a dog. A man sitting on a chair reading a book.
+It is a elephant. A man sitting on a chair reading a book.
+It is a giraffe. A man sitting on a chair reading a book.
+It is a guitar. A man sitting on a chair holding a guitar.
 It is a horse. A man sitting on a chair reading a book.
 It is a house. A man sitting on a chair reading a book.
 It is a person. A man sitting on a chair holding a book.
-It is a dog. A man sitting on a chair reading a book.
-It is a guitar. A man sitting on a chair holding a guitar.
-It is a elephant. A man sitting on a chair reading a book.
-It is a giraffe. A man sitting on a chair reading a book.

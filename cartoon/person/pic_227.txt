@@ -1,7 +1,7 @@
+It is a dog. A dog is standing in front of a brick wall.
+It is a elephant. A baby elephant standing in front of a brick wall.
+It is a giraffe. A baby giraffe standing in front of a brick wall.
+It is a guitar. A young child is holding a guitar case.
 It is a horse. A baby horse standing in front of a brick wall.
 It is a house. A house is standing in front of a wall.
 It is a person. A person standing in front of a wall.
-It is a dog. A dog is standing in front of a brick wall.
-It is a guitar. A young child is holding a guitar case.
-It is a elephant. A baby elephant standing in front of a brick wall.
-It is a giraffe. A baby giraffe standing in front of a brick wall.

@@ -1,7 +1,7 @@
+It is a dog. A dog pulling a man in a wagon.
+It is a elephant. An elephant is pulling a man in a cart.
+It is a giraffe. A giraffe pulling a cart with a man in it.
+It is a guitar. A guitar pulling a cart with a man in it.
 It is a horse. A horse pulling a cart with a man in it.
 It is a house. A house pulling a cart with a man in it.
 It is a person. A person is pulling a man in a cart.
-It is a dog. A dog pulling a man in a wagon.
-It is a guitar. A guitar pulling a cart with a man in it.
-It is a elephant. An elephant is pulling a man in a cart.
-It is a giraffe. A giraffe pulling a cart with a man in it.

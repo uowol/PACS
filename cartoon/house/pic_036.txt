@@ -1,7 +1,7 @@
+It is a dog. A painting of a building with a green roof.
+It is a elephant. A drawing of an elephant in front of a building.
+It is a giraffe. A drawing of a giraffe in front of a building.
+It is a guitar. A drawing of a guitar and trees.
 It is a horse. A painting of a building with a green roof.
 It is a house. A drawing of a house with a green roof.
 It is a person. A drawing of a person with a kite in the background.
-It is a dog. A painting of a building with a green roof.
-It is a guitar. A drawing of a guitar and trees.
-It is a elephant. A drawing of an elephant in front of a building.
-It is a giraffe. A drawing of a giraffe in front of a building.

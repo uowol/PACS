@@ -1,7 +1,7 @@
+It is a dog. A picture of a dog with a yellow collar.
+It is a elephant. A picture of an elephant with a yellow tag in it's ear.
+It is a giraffe. A picture of a giraffe with a yellow background.
+It is a guitar. A painting of a white guitar with a red collar.
 It is a horse. A painting of a white horse with a yellow collar.
 It is a house. A painting of a white house with a yellow collar.
 It is a person. A painting of a white person with a yellow collar.
-It is a dog. A picture of a dog with a yellow collar.
-It is a guitar. A painting of a white guitar with a red collar.
-It is a elephant. A picture of an elephant with a yellow tag in it's ear.
-It is a giraffe. A picture of a giraffe with a yellow background.

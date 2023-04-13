@@ -1,7 +1,7 @@
+It is a dog. A picture of a bear in the grass.
+It is a elephant. A teddy bear sitting in the middle of a field.
+It is a giraffe. A giraffe is sitting in the grass.
+It is a guitar. A guitar is sitting in the middle of a field.
 It is a horse. A picture of a horse in the grass.
 It is a house. A picture of a teddy bear sitting in the grass.
 It is a person. A picture of a person in a giraffe costume.
-It is a dog. A picture of a bear in the grass.
-It is a guitar. A guitar is sitting in the middle of a field.
-It is a elephant. A teddy bear sitting in the middle of a field.
-It is a giraffe. A giraffe is sitting in the grass.

@@ -1,7 +1,7 @@
+It is a dog. A picture of a man and a woman.
+It is a elephant. A man and a woman are standing next to each other.
+It is a giraffe. A man and a woman standing next to each other.
+It is a guitar. A painting of a man and a woman with a guitar.
 It is a horse. A painting of a man and a woman in front of a house.
 It is a house. A man and a woman are standing in front of a house.
 It is a person. A man and a woman are standing in front of a house.
-It is a dog. A picture of a man and a woman.
-It is a guitar. A painting of a man and a woman with a guitar.
-It is a elephant. A man and a woman are standing next to each other.
-It is a giraffe. A man and a woman standing next to each other.

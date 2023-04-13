@@ -1,7 +1,7 @@
+It is a dog. A dog wearing a shirt with a picture of a man on it.
+It is a elephant. The elephant is wearing a shirt with a picture of a man on it's chest.
+It is a giraffe. A giraffe standing on its hind legs.
+It is a guitar. A shirtless man is holding a guitar.
 It is a horse. A horse wearing a shirt with a picture of a man on it's back.
 It is a house. A picture of a person wearing a shirt and tie.
 It is a person. A picture of a person wearing a shirt and tie.
-It is a dog. A dog wearing a shirt with a picture of a man on it.
-It is a guitar. A shirtless man is holding a guitar.
-It is a elephant. The elephant is wearing a shirt with a picture of a man on it's chest.
-It is a giraffe. A giraffe standing on its hind legs.

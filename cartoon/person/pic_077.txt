@@ -1,7 +1,7 @@
+It is a dog. A woman is sitting on the ground.
+It is a elephant. A woman is sitting on the ground.
+It is a giraffe. A giraffe is laying on the ground.
+It is a guitar. A woman is sitting on the ground with a guitar.
 It is a horse. A woman is sitting on the ground with her legs crossed.
 It is a house. A woman is sitting on the floor.
 It is a person. A woman is sitting on the ground with her feet in the air.
-It is a dog. A woman is sitting on the ground.
-It is a guitar. A woman is sitting on the ground with a guitar.
-It is a elephant. A woman is sitting on the ground.
-It is a giraffe. A giraffe is laying on the ground.

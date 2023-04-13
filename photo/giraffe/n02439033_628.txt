@@ -1,7 +1,7 @@
+It is a dog. A dog standing in front of a brick building.
+It is a elephant. A elephant standing in front of a brick building.
+It is a giraffe. A giraffe standing in front of a brick building.
+It is a guitar. A guitar standing in front of a brick building.
 It is a horse. A horse standing in front of a brick building.
 It is a house. A house standing in front of a brick building.
 It is a person. A person standing in front of a brick building.
-It is a dog. A dog standing in front of a brick building.
-It is a guitar. A guitar standing in front of a brick building.
-It is a elephant. A elephant standing in front of a brick building.
-It is a giraffe. A giraffe standing in front of a brick building.

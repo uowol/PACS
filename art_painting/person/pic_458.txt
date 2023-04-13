@@ -1,7 +1,7 @@
+It is a dog. A painting of a woman with a hat on her head.
+It is a elephant. A painting of an elephant with a hat on its head.
+It is a giraffe. A painting of a giraffe in front of a building.
+It is a guitar. A painting of a woman holding a guitar.
 It is a horse. A painting of a horse wearing a hat.
 It is a house. A painting of a woman holding an umbrella.
 It is a person. A painting of a person holding a umbrella.
-It is a dog. A painting of a woman with a hat on her head.
-It is a guitar. A painting of a woman holding a guitar.
-It is a elephant. A painting of an elephant with a hat on its head.
-It is a giraffe. A painting of a giraffe in front of a building.

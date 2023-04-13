@@ -1,7 +1,7 @@
+It is a dog. A painting of a person and a dog in a pool.
+It is a elephant. A drawing of an elephant in a green field.
+It is a giraffe. A drawing of a giraffe in a fenced in area.
+It is a guitar. A painting of a woman holding a guitar.
 It is a horse. A painting of a horse in a fenced in area.
 It is a house. A drawing of a house and trees.
 It is a person. A painting of a person in a green field.
-It is a dog. A painting of a person and a dog in a pool.
-It is a guitar. A painting of a woman holding a guitar.
-It is a elephant. A drawing of an elephant in a green field.
-It is a giraffe. A drawing of a giraffe in a fenced in area.

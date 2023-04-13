@@ -1,7 +1,7 @@
+It is a dog. A brown dog standing in the middle of a street.
+It is a elephant. A large brown elephant walking down a street.
+It is a giraffe. A giraffe standing in the middle of a street.
+It is a guitar. A brown guitar standing next to a red car.
 It is a horse. A horse that is standing in the street.
 It is a house. A brown house standing in front of a building.
 It is a person. A brown person standing in the middle of a street.
-It is a dog. A brown dog standing in the middle of a street.
-It is a guitar. A brown guitar standing next to a red car.
-It is a elephant. A large brown elephant walking down a street.
-It is a giraffe. A giraffe standing in the middle of a street.

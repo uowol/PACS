@@ -1,7 +1,7 @@
+It is a dog. A picture of a man in a suit and tie.
+It is a elephant. A man standing in the middle of the road.
+It is a giraffe. A man is standing in front of a building.
+It is a guitar. A man wearing a neck tie.
 It is a horse. A picture of a man in a suit and tie.
 It is a house. A man standing in front of a building.
 It is a person. A man is standing in the middle of the street.
-It is a dog. A picture of a man in a suit and tie.
-It is a guitar. A man wearing a neck tie.
-It is a elephant. A man standing in the middle of the road.
-It is a giraffe. A man is standing in front of a building.

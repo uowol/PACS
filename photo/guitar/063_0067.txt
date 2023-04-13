@@ -1,7 +1,7 @@
+It is a dog. A person is holding a record in their hand.
+It is a elephant. A person is holding a record in their hand.
+It is a giraffe. A giraffe is standing in front of a record player.
+It is a guitar. A guitar player is holding a guitar.
 It is a horse. A picture of a person holding a horse.
 It is a house. A person is holding a record in their hand.
 It is a person. A person is holding a record in their hand.
-It is a dog. A person is holding a record in their hand.
-It is a guitar. A guitar player is holding a guitar.
-It is a elephant. A person is holding a record in their hand.
-It is a giraffe. A giraffe is standing in front of a record player.

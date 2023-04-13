@@ -1,7 +1,7 @@
+It is a dog. A large group of people in a field.
+It is a elephant. A large elephant standing in the middle of a crowd of people.
+It is a giraffe. A giraffe standing in the middle of a crowd of people.
+It is a guitar. A large guitar standing in the middle of a crowd of people.
 It is a horse. A large group of people in a field.
 It is a house. A large house standing in the middle of a field.
 It is a person. A large person standing in the middle of a crowd of people.
-It is a dog. A large group of people in a field.
-It is a guitar. A large guitar standing in the middle of a crowd of people.
-It is a elephant. A large elephant standing in the middle of a crowd of people.
-It is a giraffe. A giraffe standing in the middle of a crowd of people.

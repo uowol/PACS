@@ -1,7 +1,7 @@
+It is a dog. A picture of a dog with a drawing on it's face.
+It is a elephant. A picture of an elephant with a drawing on it's back.
+It is a giraffe. A picture of a giraffe in a painting.
+It is a guitar. A painting of a black and white guitar.
 It is a horse. A painting of a horse in a black and white photo.
 It is a house. A painting of a black and white house.
 It is a person. A painting of a person and a person.
-It is a dog. A picture of a dog with a drawing on it's face.
-It is a guitar. A painting of a black and white guitar.
-It is a elephant. A picture of an elephant with a drawing on it's back.
-It is a giraffe. A picture of a giraffe in a painting.

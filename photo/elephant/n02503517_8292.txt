@@ -1,7 +1,7 @@
+It is a dog. A large gray dog walking through a grassy field.
+It is a elephant. An elephant is walking through a grassy field.
+It is a giraffe. A large giraffe standing in a grassy field.
+It is a guitar. An guitar is standing in a grassy field.
 It is a horse. An horse is standing in a grassy field.
 It is a house. An house is standing in a grassy field.
 It is a person. An person is standing in a grassy field.
-It is a dog. A large gray dog walking through a grassy field.
-It is a guitar. An guitar is standing in a grassy field.
-It is a elephant. An elephant is walking through a grassy field.
-It is a giraffe. A large giraffe standing in a grassy field.

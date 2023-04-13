@@ -1,7 +1,7 @@
+It is a dog. A black and white dog standing next to a fence.
+It is a elephant. A large brown elephant standing next to a building.
+It is a giraffe. A giraffe standing next to a wooden fence.
+It is a guitar. A brown guitar standing next to a wooden fence.
 It is a horse. A horse that is standing in the dirt.
 It is a house. A brown house standing next to a white building.
 It is a person. A person that is standing in the dirt.
-It is a dog. A black and white dog standing next to a fence.
-It is a guitar. A brown guitar standing next to a wooden fence.
-It is a elephant. A large brown elephant standing next to a building.
-It is a giraffe. A giraffe standing next to a wooden fence.

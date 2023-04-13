@@ -1,7 +1,7 @@
+It is a dog. A dog eating leaves from a tree.
+It is a elephant. A elephant eating leaves from a tree.
+It is a giraffe. A giraffe eating leaves from a tree.
+It is a guitar. A guitar eating leaves from a tree.
 It is a horse. A horse is eating from a tree.
 It is a house. A house eating leaves from a tree.
 It is a person. A person eating leaves from a tree.
-It is a dog. A dog eating leaves from a tree.
-It is a guitar. A guitar eating leaves from a tree.
-It is a elephant. A elephant eating leaves from a tree.
-It is a giraffe. A giraffe eating leaves from a tree.

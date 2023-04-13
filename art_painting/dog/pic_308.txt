@@ -1,7 +1,7 @@
+It is a dog. A painting of a dog with a yellow collar.
+It is a elephant. A picture of an elephant with a smiley face.
+It is a giraffe. A picture of a giraffe standing in the grass.
+It is a guitar. A painting of a white guitar with a blue collar.
 It is a horse. A painting of a white horse with a yellow collar.
 It is a house. A painting of a house standing in front of a house.
 It is a person. A painting of a person standing in front of a tree.
-It is a dog. A painting of a dog with a yellow collar.
-It is a guitar. A painting of a white guitar with a blue collar.
-It is a elephant. A picture of an elephant with a smiley face.
-It is a giraffe. A picture of a giraffe standing in the grass.

@@ -1,7 +1,7 @@
+It is a dog. A dog that is wearing a hat.
+It is a elephant. A large brown elephant standing on top of a green field.
+It is a giraffe. A giraffe is wearing a green hat.
+It is a guitar. A bear is wearing a hat and glasses.
 It is a horse. A large brown horse standing on top of a green field.
 It is a house. A bear is wearing a hat and glasses.
 It is a person. A bear is wearing a hat and scarf.
-It is a dog. A dog that is wearing a hat.
-It is a guitar. A bear is wearing a hat and glasses.
-It is a elephant. A large brown elephant standing on top of a green field.
-It is a giraffe. A giraffe is wearing a green hat.

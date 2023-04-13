@@ -1,7 +1,7 @@
+It is a dog. A picture of a pink and white dog.
+It is a elephant. An elephant is standing in front of a elephant.
+It is a giraffe. A picture of a giraffe in front of a giraffe.
+It is a guitar. A picture of a pink and white cat in front of a guitar.
 It is a horse. A picture of a horse with a horse in the background.
 It is a house. A picture of a pink and white house.
 It is a person. A picture of a pink and white person.
-It is a dog. A picture of a pink and white dog.
-It is a guitar. A picture of a pink and white cat in front of a guitar.
-It is a elephant. An elephant is standing in front of a elephant.
-It is a giraffe. A picture of a giraffe in front of a giraffe.

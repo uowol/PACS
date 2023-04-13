@@ -1,7 +1,7 @@
+It is a dog. A woman is petting the head of an dog.
+It is a elephant. A woman standing next to a baby elephant.
+It is a giraffe. A woman is feeding a giraffe.
+It is a guitar. A woman standing next to a baby guitar.
 It is a horse. A woman standing next to a baby horse.
 It is a house. A woman standing next to a baby house.
 It is a person. A woman standing next to a baby person.
-It is a dog. A woman is petting the head of an dog.
-It is a guitar. A woman standing next to a baby guitar.
-It is a elephant. A woman standing next to a baby elephant.
-It is a giraffe. A woman is feeding a giraffe.

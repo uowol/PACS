@@ -1,7 +1,7 @@
+It is a dog. An dog walking through a grassy field.
+It is a elephant. An elephant walking through a grassy area.
+It is a giraffe. A giraffe walking through a grassy field.
+It is a guitar. An guitar is walking through the grass.
 It is a horse. An horse is walking through the grass.
 It is a house. An house is walking through the grass.
 It is a person. An person is walking through the grass.
-It is a dog. An dog walking through a grassy field.
-It is a guitar. An guitar is walking through the grass.
-It is a elephant. An elephant walking through a grassy area.
-It is a giraffe. A giraffe walking through a grassy field.

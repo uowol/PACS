@@ -1,7 +1,7 @@
+It is a dog. A group of dogs running around in a field.
+It is a elephant. A herd of elephants walking across a sandy beach.
+It is a giraffe. A herd of giraffe walking across a sandy beach.
+It is a guitar. A herd of cattle standing on top of a sandy beach.
 It is a horse. A herd of horses walking across a beach.
 It is a house. A herd of cattle walking across a field.
 It is a person. A bunch of animals that are standing in the dirt.
-It is a dog. A group of dogs running around in a field.
-It is a guitar. A herd of cattle standing on top of a sandy beach.
-It is a elephant. A herd of elephants walking across a sandy beach.
-It is a giraffe. A herd of giraffe walking across a sandy beach.

@@ -1,7 +1,7 @@
+It is a dog. A person is riding a dog down the street.
+It is a elephant. A person is riding a elephant down the street.
+It is a giraffe. A person is walking a giraffe down the street.
+It is a guitar. A person is riding a guitar down the street.
 It is a horse. A person is riding a horse down the street.
 It is a house. A person is riding a house down the street.
 It is a person. A person is riding a person down the street.
-It is a dog. A person is riding a dog down the street.
-It is a guitar. A person is riding a guitar down the street.
-It is a elephant. A person is riding a elephant down the street.
-It is a giraffe. A person is walking a giraffe down the street.

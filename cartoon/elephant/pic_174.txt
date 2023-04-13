@@ -1,7 +1,7 @@
+It is a dog. A picture of three different colored dogs.
+It is a elephant. A group of three elephants standing next to each other.
+It is a giraffe. A group of three giraffe standing next to each other.
+It is a guitar. A group of three pictures with a guitar in the middle of the picture.
 It is a horse. A series of three pictures of a horse.
 It is a house. A group of three faces of three houses.
 It is a person. A group of three persons standing next to each other.
-It is a dog. A picture of three different colored dogs.
-It is a guitar. A group of three pictures with a guitar in the middle of the picture.
-It is a elephant. A group of three elephants standing next to each other.
-It is a giraffe. A group of three giraffe standing next to each other.

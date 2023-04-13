@@ -1,7 +1,7 @@
+It is a dog. A painting of two people walking down a street.
+It is a elephant. A couple of people walking down a street with an elephant.
+It is a giraffe. A couple of giraffe walking down a street.
+It is a guitar. A painting of two people walking down a street.
 It is a horse. A couple of people walking down a street with a horse.
 It is a house. A painting of two people walking in the rain.
 It is a person. A couple of people walking down a street.
-It is a dog. A painting of two people walking down a street.
-It is a guitar. A painting of two people walking down a street.
-It is a elephant. A couple of people walking down a street with an elephant.
-It is a giraffe. A couple of giraffe walking down a street.

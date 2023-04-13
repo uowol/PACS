@@ -1,7 +1,7 @@
+It is a dog. A painting of a man riding a dog.
+It is a elephant. A painting of a man riding a elephant.
+It is a giraffe. A painting of a giraffe running on a beach.
+It is a guitar. A painting of a person riding a guitar.
 It is a horse. A painting of horses running on a beach.
 It is a house. A painting of houses running around in a field.
 It is a person. A painting of a person riding a person.
-It is a dog. A painting of a man riding a dog.
-It is a guitar. A painting of a person riding a guitar.
-It is a elephant. A painting of a man riding a elephant.
-It is a giraffe. A painting of a giraffe running on a beach.

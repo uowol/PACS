@@ -1,7 +1,7 @@
+It is a dog. A small black and white dog on a leash.
+It is a elephant. A small black and brown elephant standing next to a chair.
+It is a giraffe. A small black and white giraffe on a leash.
+It is a guitar. A small black guitar standing next to a chair.
 It is a horse. A small black and white horse on a leash.
 It is a house. A small black house standing in front of a chair.
 It is a person. A small black and white person on a leash.
-It is a dog. A small black and white dog on a leash.
-It is a guitar. A small black guitar standing next to a chair.
-It is a elephant. A small black and brown elephant standing next to a chair.
-It is a giraffe. A small black and white giraffe on a leash.

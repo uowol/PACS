@@ -1,7 +1,7 @@
+It is a dog. A man sitting on the floor in front of a wall.
+It is a elephant. A man sitting on the ground in front of a wall.
+It is a giraffe. A man sitting on a bench reading a book.
+It is a guitar. A guitar sitting on a bench with a guitar in front of them.
 It is a horse. A man sitting on the ground in front of a wall.
 It is a house. A man sitting on the floor in front of a window.
 It is a person. A man is sitting on a bench reading a book.
-It is a dog. A man sitting on the floor in front of a wall.
-It is a guitar. A guitar sitting on a bench with a guitar in front of them.
-It is a elephant. A man sitting on the ground in front of a wall.
-It is a giraffe. A man sitting on a bench reading a book.

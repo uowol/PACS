@@ -1,7 +1,7 @@
+It is a dog. A picture of a dog with a caption reading "I love you".
+It is a elephant. A picture of an elephant with a caption reading "I am an elephant".
+It is a giraffe. A picture of a giraffe with a caption reading "I am a giraffe.".
+It is a guitar. A picture of a picture of a guitar.
 It is a horse. A picture of a picture of a horse with a caption reading "I love you".
 It is a house. A picture of a picture of a house with a caption reading "I love you".
 It is a person. A picture of a person with a caption reading "I love you".
-It is a dog. A picture of a dog with a caption reading "I love you".
-It is a guitar. A picture of a picture of a guitar.
-It is a elephant. A picture of an elephant with a caption reading "I am an elephant".
-It is a giraffe. A picture of a giraffe with a caption reading "I am a giraffe.".

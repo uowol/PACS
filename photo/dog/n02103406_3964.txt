@@ -1,7 +1,7 @@
+It is a dog. A black and brown dog standing in a field.
+It is a elephant. A large black and brown elephant standing in a field.
+It is a giraffe. A large black and brown giraffe standing on top of a grass covered field.
+It is a guitar. A black and brown guitar standing in a field.
 It is a horse. A black and brown horse standing in a field.
 It is a house. A black and brown house standing in the grass.
 It is a person. A black and brown person standing in a field.
-It is a dog. A black and brown dog standing in a field.
-It is a guitar. A black and brown guitar standing in a field.
-It is a elephant. A large black and brown elephant standing in a field.
-It is a giraffe. A large black and brown giraffe standing on top of a grass covered field.

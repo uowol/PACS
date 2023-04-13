@@ -1,7 +1,7 @@
+It is a dog. A picture of a dog standing in front of a picture frame.
+It is a elephant. A picture of a brown and white elephant.
+It is a giraffe. A picture of a giraffe standing in the grass.
+It is a guitar. A picture of a guitar standing in front of a picture frame.
 It is a horse. A picture of a horse in a picture frame.
 It is a house. A picture of a house standing in front of a wall.
 It is a person. A picture of a person standing in front of a picture frame.
-It is a dog. A picture of a dog standing in front of a picture frame.
-It is a guitar. A picture of a guitar standing in front of a picture frame.
-It is a elephant. A picture of a brown and white elephant.
-It is a giraffe. A picture of a giraffe standing in the grass.

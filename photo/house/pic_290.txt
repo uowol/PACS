@@ -1,7 +1,7 @@
+It is a dog. A view of a dog with a lot of windows.
+It is a elephant. A large white building with a fountain in the middle of it.
+It is a giraffe. A giraffe is standing in the middle of a swimming pool.
+It is a guitar. A view of a guitar with a lot of windows.
 It is a horse. A white horse is standing in a fenced in area.
 It is a house. A white house with a lot of windows.
 It is a person. A large white building with a lot of windows.
-It is a dog. A view of a dog with a lot of windows.
-It is a guitar. A view of a guitar with a lot of windows.
-It is a elephant. A large white building with a fountain in the middle of it.
-It is a giraffe. A giraffe is standing in the middle of a swimming pool.

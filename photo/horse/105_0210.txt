@@ -1,7 +1,7 @@
+It is a dog. A black and brown dog standing next to a fence.
+It is a elephant. A large elephant is standing behind a barbed wire fence.
+It is a giraffe. A giraffe is standing behind a barbed wire fence.
+It is a guitar. A black guitar standing next to a fence.
 It is a horse. A horse is standing behind a barbed wire fence.
 It is a house. A black house is standing in a fenced in area.
 It is a person. A black person is standing behind a barbed wire fence.
-It is a dog. A black and brown dog standing next to a fence.
-It is a guitar. A black guitar standing next to a fence.
-It is a elephant. A large elephant is standing behind a barbed wire fence.
-It is a giraffe. A giraffe is standing behind a barbed wire fence.

@@ -1,7 +1,7 @@
+It is a dog. A picture of a dog with a hat on.
+It is a elephant. A brown elephant standing on top of a wooden log.
+It is a giraffe. A giraffe standing on top of a wooden platform.
+It is a guitar. A picture of a guitar with a guitar on top of it.
 It is a horse. A picture of a horse with a hat on.
 It is a house. A brown house standing on top of a wooden post.
 It is a person. A picture of a person with a hat on.
-It is a dog. A picture of a dog with a hat on.
-It is a guitar. A picture of a guitar with a guitar on top of it.
-It is a elephant. A brown elephant standing on top of a wooden log.
-It is a giraffe. A giraffe standing on top of a wooden platform.

@@ -1,7 +1,7 @@
+It is a dog. A man wearing glasses and a neck tie.
+It is a elephant. A man in a suit and tie.
+It is a giraffe. A giraffe standing in front of a building.
+It is a guitar. A man wearing glasses and a neck tie.
 It is a horse. A man wearing glasses and a neck tie.
 It is a house. A man wearing a green shirt and a tie.
 It is a person. A man wearing glasses and a tie.
-It is a dog. A man wearing glasses and a neck tie.
-It is a guitar. A man wearing glasses and a neck tie.
-It is a elephant. A man in a suit and tie.
-It is a giraffe. A giraffe standing in front of a building.

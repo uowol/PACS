@@ -1,7 +1,7 @@
+It is a dog. A dog is standing in the middle of the floor.
+It is a elephant. A black and white elephant standing in the middle of a carpeted area.
+It is a giraffe. A giraffe standing in the middle of a carpeted area.
+It is a guitar. A black and white guitar standing in the middle of the floor.
 It is a horse. A black and white horse standing in the middle of a carpeted area.
 It is a house. A black and white house standing in the middle of the floor.
 It is a person. A black and white person standing in the middle of the floor.
-It is a dog. A dog is standing in the middle of the floor.
-It is a guitar. A black and white guitar standing in the middle of the floor.
-It is a elephant. A black and white elephant standing in the middle of a carpeted area.
-It is a giraffe. A giraffe standing in the middle of a carpeted area.

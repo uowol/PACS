@@ -1,7 +1,7 @@
+It is a dog. A picture of a dog and a cow.
+It is a elephant. A brown elephant standing next to a cow.
+It is a giraffe. A couple of giraffe standing next to each other.
+It is a guitar. A couple of cows standing next to each other.
 It is a horse. A picture of a horse and a cow.
 It is a house. A brown house standing next to a brown cow.
 It is a person. A brown person standing next to a brown cow.
-It is a dog. A picture of a dog and a cow.
-It is a guitar. A couple of cows standing next to each other.
-It is a elephant. A brown elephant standing next to a cow.
-It is a giraffe. A couple of giraffe standing next to each other.

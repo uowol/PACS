@@ -1,7 +1,7 @@
+It is a dog. A dog case with a dog in front of a window.
+It is a elephant. A elephant is sitting in front of a window.
+It is a giraffe. A giraffe is sitting in front of a window.
+It is a guitar. A guitar is sitting in front of a window.
 It is a horse. A horse and a horse in front of a window.
 It is a house. A house is sitting in front of a window.
 It is a person. A person is sitting in front of a window.
-It is a dog. A dog case with a dog in front of a window.
-It is a guitar. A guitar is sitting in front of a window.
-It is a elephant. A elephant is sitting in front of a window.
-It is a giraffe. A giraffe is sitting in front of a window.

@@ -1,7 +1,7 @@
+It is a dog. A brown and white dog walking through a fenced in area.
+It is a elephant. A brown and white elephant walking across a field.
+It is a giraffe. A brown and white giraffe walking in a fenced in area.
+It is a guitar. A brown and white guitar walking across a field.
 It is a horse. A brown and white horse in a fenced in area.
 It is a house. A brown and white house walking across a field.
 It is a person. A brown and white person in a fenced in area.
-It is a dog. A brown and white dog walking through a fenced in area.
-It is a guitar. A brown and white guitar walking across a field.
-It is a elephant. A brown and white elephant walking across a field.
-It is a giraffe. A brown and white giraffe walking in a fenced in area.

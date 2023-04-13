@@ -1,7 +1,7 @@
+It is a dog. A dog is standing in the middle of the road.
+It is a elephant. A tall elephant walking across a dirt road.
+It is a giraffe. A giraffe is standing in the middle of the road.
+It is a guitar. A guitar is standing in the middle of the road.
 It is a horse. A horse is standing in the middle of the road.
 It is a house. A house is standing in the middle of the road.
 It is a person. A person is standing in the middle of the road.
-It is a dog. A dog is standing in the middle of the road.
-It is a guitar. A guitar is standing in the middle of the road.
-It is a elephant. A tall elephant walking across a dirt road.
-It is a giraffe. A giraffe is standing in the middle of the road.

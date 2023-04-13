@@ -1,7 +1,7 @@
+It is a dog. A dog that is sitting on a table.
+It is a elephant. A large brown elephant standing on top of a wooden floor.
+It is a giraffe. A giraffe is standing in the middle of a row of trees.
+It is a guitar. A guitar that is sitting on a table.
 It is a horse. A small brown and white horse with a yellow collar.
 It is a house. A house is sitting on the floor.
 It is a person. A person that is sitting on a tile floor.
-It is a dog. A dog that is sitting on a table.
-It is a guitar. A guitar that is sitting on a table.
-It is a elephant. A large brown elephant standing on top of a wooden floor.
-It is a giraffe. A giraffe is standing in the middle of a row of trees.

@@ -1,7 +1,7 @@
+It is a dog. A picture of a dog with a tie on.
+It is a elephant. A picture of a elephant with a tie on.
+It is a giraffe. A picture of a giraffe with a picture of a giraffe on it.
+It is a guitar. A painting of a guitar with a tie.
 It is a horse. A painting of a horse with a tie on.
 It is a house. A painting of a house with a tie on.
 It is a person. A painting of a person with a tie on.
-It is a dog. A picture of a dog with a tie on.
-It is a guitar. A painting of a guitar with a tie.
-It is a elephant. A picture of a elephant with a tie on.
-It is a giraffe. A picture of a giraffe with a picture of a giraffe on it.

@@ -1,7 +1,7 @@
+It is a dog. A group of pictures of a dog and a dog.
+It is a elephant. A group of pictures of elephants in various stages of being reared.
+It is a giraffe. A group of pictures of giraffes in different poses.
+It is a guitar. A group of pictures of a person holding a guitar.
 It is a horse. A group of pictures of a horse.
 It is a house. A group of pictures of houses.
 It is a person. A group of pictures of a person holding a person.
-It is a dog. A group of pictures of a dog and a dog.
-It is a guitar. A group of pictures of a person holding a guitar.
-It is a elephant. A group of pictures of elephants in various stages of being reared.
-It is a giraffe. A group of pictures of giraffes in different poses.

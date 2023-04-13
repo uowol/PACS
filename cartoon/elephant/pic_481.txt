@@ -1,7 +1,7 @@
+It is a dog. A small dog standing next to a larger dog.
+It is a elephant. A elephant standing next to a person holding an umbrella.
+It is a giraffe. A couple of giraffe standing next to each other.
+It is a guitar. A small guitar standing next to a person holding an umbrella.
 It is a horse. A horse and a person holding an umbrella.
 It is a house. A small house standing next to a larger house.
 It is a person. A small person standing next to a larger person.
-It is a dog. A small dog standing next to a larger dog.
-It is a guitar. A small guitar standing next to a person holding an umbrella.
-It is a elephant. A elephant standing next to a person holding an umbrella.
-It is a giraffe. A couple of giraffe standing next to each other.

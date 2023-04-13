@@ -1,7 +1,7 @@
+It is a dog. A painting of a woman in a white dress.
+It is a elephant. A painting of a woman in a white dress.
+It is a giraffe. A painting of a giraffe laying on the ground.
+It is a guitar. A painting of a woman with a guitar.
 It is a horse. A painting of a woman in a white dress.
 It is a house. A painting of a woman in a white dress.
 It is a person. A painting of a woman in a white dress.
-It is a dog. A painting of a woman in a white dress.
-It is a guitar. A painting of a woman with a guitar.
-It is a elephant. A painting of a woman in a white dress.
-It is a giraffe. A painting of a giraffe laying on the ground.

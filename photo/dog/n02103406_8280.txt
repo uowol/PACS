@@ -1,7 +1,7 @@
+It is a dog. A person in a boat with a dog.
+It is a elephant. A man in a boat with a elephant.
+It is a giraffe. A person in a boat with a giraffe in it's lap.
+It is a guitar. A man in a boat with a guitar.
 It is a horse. A person in a boat with a horse.
 It is a house. A man in a boat with a house.
 It is a person. A person in a boat with a person.
-It is a dog. A person in a boat with a dog.
-It is a guitar. A man in a boat with a guitar.
-It is a elephant. A man in a boat with a elephant.
-It is a giraffe. A person in a boat with a giraffe in it's lap.

@@ -1,7 +1,7 @@
+It is a dog. A dog wearing a neck tie.
+It is a elephant. A elephant is standing in front of a tree.
+It is a giraffe. A giraffe is standing in front of a tree.
+It is a guitar. A guitar with a guitar in a room.
 It is a horse. A horse in a white shirt and black tie.
 It is a house. A woman is standing in front of a house.
 It is a person. A person that is wearing a neck tie.
-It is a dog. A dog wearing a neck tie.
-It is a guitar. A guitar with a guitar in a room.
-It is a elephant. A elephant is standing in front of a tree.
-It is a giraffe. A giraffe is standing in front of a tree.

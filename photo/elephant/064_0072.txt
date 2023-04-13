@@ -1,7 +1,7 @@
+It is a dog. A baby dog standing next to an adult dog.
+It is a elephant. A baby elephant standing next to an adult elephant.
+It is a giraffe. A baby giraffe standing next to an adult giraffe.
+It is a guitar. An adult and baby guitar standing next to each other.
 It is a horse. An adult and baby horse in a field.
 It is a house. A baby house standing next to an adult house.
 It is a person. A baby person standing next to an adult person.
-It is a dog. A baby dog standing next to an adult dog.
-It is a guitar. An adult and baby guitar standing next to each other.
-It is a elephant. A baby elephant standing next to an adult elephant.
-It is a giraffe. A baby giraffe standing next to an adult giraffe.

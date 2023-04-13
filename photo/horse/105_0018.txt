@@ -1,7 +1,7 @@
+It is a dog. A dog that is standing in the grass.
+It is a elephant. A picture of an elephant in the woods.
+It is a giraffe. A picture of a giraffe in the woods.
+It is a guitar. A guitar that is standing in the grass.
 It is a horse. A horse that is standing in the grass.
 It is a house. A picture of a house in the woods.
 It is a person. A person is standing in the woods.
-It is a dog. A dog that is standing in the grass.
-It is a guitar. A guitar that is standing in the grass.
-It is a elephant. A picture of an elephant in the woods.
-It is a giraffe. A picture of a giraffe in the woods.

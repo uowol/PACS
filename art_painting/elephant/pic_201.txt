@@ -1,7 +1,7 @@
+It is a dog. A picture of an dog in a field.
+It is a elephant. A picture of an elephant in the wild.
+It is a giraffe. A picture of a giraffe in the wild.
+It is a guitar. A painting of an guitar in a field.
 It is a horse. A picture of a horse in a field.
 It is a house. A picture of an house standing in the grass.
 It is a person. A picture of an person in the wild.
-It is a dog. A picture of an dog in a field.
-It is a guitar. A painting of an guitar in a field.
-It is a elephant. A picture of an elephant in the wild.
-It is a giraffe. A picture of a giraffe in the wild.

@@ -1,7 +1,7 @@
+It is a dog. A truck is parked in front of a building.
+It is a elephant. An elephant is standing in front of a building.
+It is a giraffe. A giraffe standing in front of a building.
+It is a guitar. A truck is parked in front of a building.
 It is a horse. A horse is standing in front of a building.
 It is a house. A truck is parked on the side of the road.
 It is a person. A person is standing in front of a building.
-It is a dog. A truck is parked in front of a building.
-It is a guitar. A truck is parked in front of a building.
-It is a elephant. An elephant is standing in front of a building.
-It is a giraffe. A giraffe standing in front of a building.

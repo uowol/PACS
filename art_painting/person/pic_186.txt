@@ -1,7 +1,7 @@
+It is a dog. A painting of a man with a hat.
+It is a elephant. A painting of a man with a hat on his head.
+It is a giraffe. A painting of a giraffe in front of a painting of a man.
+It is a guitar. A painting of a man with a guitar.
 It is a horse. A painting of a man with a hat.
 It is a house. A painting of a man in a uniform.
 It is a person. A painting of a man in a uniform.
-It is a dog. A painting of a man with a hat.
-It is a guitar. A painting of a man with a guitar.
-It is a elephant. A painting of a man with a hat on his head.
-It is a giraffe. A painting of a giraffe in front of a painting of a man.

@@ -1,7 +1,7 @@
+It is a dog. A drawing of a dog standing next to a castle.
+It is a elephant. A elephant standing in front of a blue sky.
+It is a giraffe. A giraffe standing in front of a blue sky.
+It is a guitar. A drawing of a guitar and a woman.
 It is a horse. A drawing of a horse standing next to a castle.
 It is a house. A house standing in front of a castle.
 It is a person. A person standing in front of a blue sky.
-It is a dog. A drawing of a dog standing next to a castle.
-It is a guitar. A drawing of a guitar and a woman.
-It is a elephant. A elephant standing in front of a blue sky.
-It is a giraffe. A giraffe standing in front of a blue sky.

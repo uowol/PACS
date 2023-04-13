@@ -1,7 +1,7 @@
+It is a dog. A painting of a man walking down a street.
+It is a elephant. A painting of an elephant walking down a street.
+It is a giraffe. A painting of a giraffe in front of a building.
+It is a guitar. A painting of a man holding a guitar.
 It is a horse. A painting of a man walking a horse down a street.
 It is a house. A painting of a house walking down the street.
 It is a person. A painting of a person walking down the street.
-It is a dog. A painting of a man walking down a street.
-It is a guitar. A painting of a man holding a guitar.
-It is a elephant. A painting of an elephant walking down a street.
-It is a giraffe. A painting of a giraffe in front of a building.

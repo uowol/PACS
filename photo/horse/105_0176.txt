@@ -1,7 +1,7 @@
+It is a dog. A black dog is running through the grass.
+It is a elephant. A large black elephant running through a field.
+It is a giraffe. A giraffe is running through the grass.
+It is a guitar. A black guitar is running through the grass.
 It is a horse. A horse is running through the grass.
 It is a house. A black house is running through the grass.
 It is a person. A large black person standing on top of a wooden floor.
-It is a dog. A black dog is running through the grass.
-It is a guitar. A black guitar is running through the grass.
-It is a elephant. A large black elephant running through a field.
-It is a giraffe. A giraffe is running through the grass.

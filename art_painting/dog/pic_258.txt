@@ -1,7 +1,7 @@
+It is a dog. an image of a dog with a bird in its mouth.
+It is a elephant. A painting of an elephant with a bird on its back.
+It is a giraffe. an image of a giraffe with a bird on its head.
+It is a guitar. A painting of a vase with a bird on it.
 It is a horse. A painting of a horse and a bird.
 It is a house. an image of a painting of a bird on a table.
 It is a person. A painting of an animal with a bird on its head.
-It is a dog. an image of a dog with a bird in its mouth.
-It is a guitar. A painting of a vase with a bird on it.
-It is a elephant. A painting of an elephant with a bird on its back.
-It is a giraffe. an image of a giraffe with a bird on its head.

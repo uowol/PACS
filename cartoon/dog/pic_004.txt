@@ -1,7 +1,7 @@
+It is a dog. A picture of a dog on a beach.
+It is a elephant. A large brown elephant standing on top of a sandy beach.
+It is a giraffe. A picture of a giraffe standing in the grass.
+It is a guitar. A small brown guitar standing on top of a sandy beach.
 It is a horse. A small brown horse standing on top of a sandy beach.
 It is a house. A small brown house standing on top of a sandy floor.
 It is a person. A small brown person standing on top of a sandy beach.
-It is a dog. A picture of a dog on a beach.
-It is a guitar. A small brown guitar standing on top of a sandy beach.
-It is a elephant. A large brown elephant standing on top of a sandy beach.
-It is a giraffe. A picture of a giraffe standing in the grass.

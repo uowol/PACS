@@ -1,7 +1,7 @@
+It is a dog. A store front with a lot of windows and a sign that says " shop.".
+It is a elephant. A store front with umbrellas in front of it.
+It is a giraffe. A store front with a sign that reads "Giraffe Museum".
+It is a guitar. A store front with a guitar and a sign that reads "Alto".
 It is a horse. A store front with a horse drawn carriage in front of it.
 It is a house. A building with a lot of windows and a sign that says " shop.".
 It is a person. A store front with umbrellas in front of it.
-It is a dog. A store front with a lot of windows and a sign that says " shop.".
-It is a guitar. A store front with a guitar and a sign that reads "Alto".
-It is a elephant. A store front with umbrellas in front of it.
-It is a giraffe. A store front with a sign that reads "Giraffe Museum".

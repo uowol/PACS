@@ -1,7 +1,7 @@
+It is a dog. A painting of people walking on a beach.
+It is a elephant. A painting of elephants walking in the sand.
+It is a giraffe. A painting of a giraffe walking in the sand.
+It is a guitar. A painting of people walking on a beach.
 It is a horse. A painting of people walking with a horse.
 It is a house. A painting of people walking in the sand.
 It is a person. A painting of people walking on a beach.
-It is a dog. A painting of people walking on a beach.
-It is a guitar. A painting of people walking on a beach.
-It is a elephant. A painting of elephants walking in the sand.
-It is a giraffe. A painting of a giraffe walking in the sand.

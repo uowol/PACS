@@ -1,7 +1,7 @@
+It is a dog. A brown and white dog laying on the ground.
+It is a elephant. A large brown elephant standing on top of a grass covered field.
+It is a giraffe. A giraffe is laying down in the grass.
+It is a guitar. A large brown guitar laying on top of a grass covered field.
 It is a horse. A horse that is laying down in the grass.
 It is a house. A brown and white house in grassy area next to fence.
 It is a person. A large brown person standing on top of a grass covered field.
-It is a dog. A brown and white dog laying on the ground.
-It is a guitar. A large brown guitar laying on top of a grass covered field.
-It is a elephant. A large brown elephant standing on top of a grass covered field.
-It is a giraffe. A giraffe is laying down in the grass.

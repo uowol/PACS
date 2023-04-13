@@ -1,7 +1,7 @@
+It is a dog. A group of three dogs sitting at a table.
+It is a elephant. A group of three elephants sitting at a table.
+It is a giraffe. A group of three giraffe sitting at a table.
+It is a guitar. A group of three guitars sitting at a table.
 It is a horse. A group of people sitting at a table.
 It is a house. A group of three houses sitting at a table.
 It is a person. A group of three persons sitting at a table.
-It is a dog. A group of three dogs sitting at a table.
-It is a guitar. A group of three guitars sitting at a table.
-It is a elephant. A group of three elephants sitting at a table.
-It is a giraffe. A group of three giraffe sitting at a table.

@@ -1,7 +1,7 @@
+It is a dog. A painting of three different colored dogs.
+It is a elephant. Three paintings of elephants are shown in a row.
+It is a giraffe. A painting of three giraffes standing next to each other.
+It is a guitar. A painting of three guitarists in a row.
 It is a horse. A painting of a horse standing next to a wall.
 It is a house. A painting of a group of three brown and white cows standing next to each other.
 It is a person. A painting of a person standing in front of a wall.
-It is a dog. A painting of three different colored dogs.
-It is a guitar. A painting of three guitarists in a row.
-It is a elephant. Three paintings of elephants are shown in a row.
-It is a giraffe. A painting of three giraffes standing next to each other.

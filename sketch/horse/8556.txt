@@ -1,7 +1,7 @@
+It is a dog. A black and white photo of a dog.
+It is a elephant. A picture of a elephant standing in the grass.
+It is a giraffe. A picture of a giraffe standing in the grass.
+It is a guitar. A picture of a cow standing in the grass.
 It is a horse. A black and white photo of a horse.
 It is a house. A picture of a cow standing in the grass.
 It is a person. A picture of a person standing in front of a cow.
-It is a dog. A black and white photo of a dog.
-It is a guitar. A picture of a cow standing in the grass.
-It is a elephant. A picture of a elephant standing in the grass.
-It is a giraffe. A picture of a giraffe standing in the grass.

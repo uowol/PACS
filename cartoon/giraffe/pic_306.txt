@@ -1,7 +1,7 @@
+It is a dog. A tall dog standing on its hind legs.
+It is a elephant. A elephant standing on its hind legs.
+It is a giraffe. A giraffe standing on its hind legs.
+It is a guitar. A guitar standing on its hind legs.
 It is a horse. A horse standing on its hind legs.
 It is a house. A tall house standing in the middle of a room.
 It is a person. A tall person standing on its hind legs.
-It is a dog. A tall dog standing on its hind legs.
-It is a guitar. A guitar standing on its hind legs.
-It is a elephant. A elephant standing on its hind legs.
-It is a giraffe. A giraffe standing on its hind legs.

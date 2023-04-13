@@ -1,7 +1,7 @@
+It is a dog. A woman standing next to a baby dog.
+It is a elephant. A woman is standing in front of an elephant.
+It is a giraffe. A giraffe is standing in front of a man.
+It is a guitar. A man standing next to a baby guitar.
 It is a horse. A woman is standing next to a horse.
 It is a house. A man standing next to a baby house.
 It is a person. A person is standing in front of an person.
-It is a dog. A woman standing next to a baby dog.
-It is a guitar. A man standing next to a baby guitar.
-It is a elephant. A woman is standing in front of an elephant.
-It is a giraffe. A giraffe is standing in front of a man.
